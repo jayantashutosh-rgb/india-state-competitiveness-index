@@ -252,7 +252,7 @@ limitation is stated openly.
 
 ## License
 
-Released under the MIT License. See `LICENSE`.
+Released under the MIT License. See [LICENSE](LICENSE).
 
 ## Author
 
