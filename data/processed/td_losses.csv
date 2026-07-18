@@ -1,0 +1,684 @@
+state,year,value
+Andaman & Nicobar Islands,2004-05,12.6
+Andaman & Nicobar Islands,2005-06,24.3
+Andaman & Nicobar Islands,2006-07,23.1
+Andaman & Nicobar Islands,2007-08,26.9
+Andaman & Nicobar Islands,2008-09,24.2
+Andaman & Nicobar Islands,2009-10,19.8
+Andaman & Nicobar Islands,2010-11,20.7
+Andaman & Nicobar Islands,2011-12,18.2
+Andaman & Nicobar Islands,2012-13,18.1
+Andhra Pradesh@,2004-05,23.9
+Andhra Pradesh@,2005-06,20.1
+Andhra Pradesh@,2006-07,18.7
+Andhra Pradesh@,2007-08,22.4
+Andhra Pradesh@,2008-09,19.6
+Andhra Pradesh@,2009-10,18.4
+Andhra Pradesh@,2010-11,16.6
+Andhra Pradesh@,2011-12,17.5
+Andhra Pradesh@,2012-13,19.3
+Arunachal Pradesh,2004-05,42.9
+Arunachal Pradesh,2005-06,49.7
+Arunachal Pradesh,2006-07,57.8
+Arunachal Pradesh,2007-08,67.2
+Arunachal Pradesh,2008-09,46.9
+Arunachal Pradesh,2009-10,48.0
+Arunachal Pradesh,2010-11,47.1
+Arunachal Pradesh,2011-12,46.3
+Arunachal Pradesh,2012-13,46.0
+Assam,2004-05,51.8
+Assam,2005-06,40.3
+Assam,2006-07,33.7
+Assam,2007-08,38.6
+Assam,2008-09,37.6
+Assam,2009-10,32.8
+Assam,2010-11,34.2
+Assam,2011-12,33.5
+Assam,2012-13,30.7
+Bihar,2004-05,38.9
+Bihar,2005-06,44.0
+Bihar,2006-07,50.7
+Bihar,2007-08,48.8
+Bihar,2008-09,46.4
+Bihar,2009-10,43.6
+Bihar,2010-11,50.8
+Bihar,2011-12,50.9
+Bihar,2012-13,49.4
+Chandigarh,2004-05,30.4
+Chandigarh,2005-06,31.6
+Chandigarh,2006-07,25.1
+Chandigarh,2007-08,23.8
+Chandigarh,2008-09,22.4
+Chandigarh,2009-10,23.2
+Chandigarh,2010-11,20.3
+Chandigarh,2011-12,23.7
+Chandigarh,2012-13,19.3
+Chhattisgarh,2004-05,28.1
+Chhattisgarh,2005-06,31.1
+Chhattisgarh,2006-07,31.7
+Chhattisgarh,2007-08,29.8
+Chhattisgarh,2008-09,26.4
+Chhattisgarh,2009-10,18.6
+Chhattisgarh,2010-11,15.1
+Chhattisgarh,2011-12,16.5
+Chhattisgarh,2012-13,28.8
+Dadra & Nagar Haveli,2004-05,16.0
+Dadra & Nagar Haveli,2005-06,19.9
+Dadra & Nagar Haveli,2006-07,11.2
+Dadra & Nagar Haveli,2007-08,18.1
+Dadra & Nagar Haveli,2008-09,15.6
+Dadra & Nagar Haveli,2009-10,11.2
+Dadra & Nagar Haveli,2010-11,10.1
+Dadra & Nagar Haveli,2011-12,12.1
+Dadra & Nagar Haveli,2012-13,9.9
+Daman & Diu,2004-05,15.6
+Daman & Diu,2005-06,21.6
+Daman & Diu,2006-07,22.1
+Daman & Diu,2007-08,23.3
+Daman & Diu,2008-09,20.1
+Daman & Diu,2009-10,17.2
+Daman & Diu,2010-11,16.8
+Daman & Diu,2011-12,14.5
+Daman & Diu,2012-13,15.6
+Delhi,2004-05,45.4
+Delhi,2005-06,48.6
+Delhi,2006-07,33.0
+Delhi,2007-08,28.7
+Delhi,2008-09,22.2
+Delhi,2009-10,22.1
+Delhi,2010-11,20.0
+Delhi,2011-12,19.3
+Delhi,2012-13,22.1
+Goa,2004-05,35.9
+Goa,2005-06,19.7
+Goa,2006-07,20.9
+Goa,2007-08,21.2
+Goa,2008-09,17.1
+Goa,2009-10,17.0
+Goa,2010-11,15.3
+Goa,2011-12,12.4
+Goa,2012-13,13.4
+Gujarat,2004-05,30.4
+Gujarat,2005-06,27.9
+Gujarat,2006-07,24.9
+Gujarat,2007-08,26.1
+Gujarat,2008-09,24.1
+Gujarat,2009-10,22.8
+Gujarat,2010-11,19.2
+Gujarat,2011-12,21.8
+Gujarat,2012-13,18.5
+Haryana,2004-05,32.1
+Haryana,2005-06,30.5
+Haryana,2006-07,33.4
+Haryana,2007-08,32.8
+Haryana,2008-09,30.7
+Haryana,2009-10,31.0
+Haryana,2010-11,29.7
+Haryana,2011-12,28.6
+Haryana,2012-13,36.0
+Himachal Pradesh,2004-05,28.9
+Himachal Pradesh,2005-06,23.6
+Himachal Pradesh,2006-07,19.8
+Himachal Pradesh,2007-08,17.0
+Himachal Pradesh,2008-09,15.5
+Himachal Pradesh,2009-10,20.5
+Himachal Pradesh,2010-11,22.2
+Himachal Pradesh,2011-12,18.6
+Himachal Pradesh,2012-13,19.1
+Jammu & Kashmir,2004-05,41.1
+Jammu & Kashmir,2005-06,44.9
+Jammu & Kashmir,2006-07,52.0
+Jammu & Kashmir,2007-08,55.7
+Jammu & Kashmir,2008-09,58.0
+Jammu & Kashmir,2009-10,67.4
+Jammu & Kashmir,2010-11,63.3
+Jammu & Kashmir,2011-12,61.8
+Jammu & Kashmir,2012-13,56.6
+Jharkhand,2004-05,19.6
+Jharkhand,2005-06,26.8
+Jharkhand,2006-07,26.2
+Jharkhand,2007-08,23.2
+Jharkhand,2008-09,24.3
+Jharkhand,2009-10,22.2
+Jharkhand,2010-11,17.1
+Jharkhand,2011-12,14.3
+Jharkhand,2012-13,13.6
+Karnataka,2004-05,26.1
+Karnataka,2005-06,29.8
+Karnataka,2006-07,25.9
+Karnataka,2007-08,18.9
+Karnataka,2008-09,17.0
+Karnataka,2009-10,18.8
+Karnataka,2010-11,17.3
+Karnataka,2011-12,12.7
+Karnataka,2012-13,11.1
+Kerala,2004-05,22.5
+Kerala,2005-06,23.5
+Kerala,2006-07,19.1
+Kerala,2007-08,17.8
+Kerala,2008-09,13.2
+Kerala,2009-10,19.6
+Kerala,2010-11,18.3
+Kerala,2011-12,17.2
+Kerala,2012-13,17.7
+Lakshadweep,2004-05,10.2
+Lakshadweep,2005-06,11.2
+Lakshadweep,2006-07,12.9
+Lakshadweep,2007-08,18.1
+Lakshadweep,2008-09,24.9
+Lakshadweep,2009-10,11.6
+Lakshadweep,2010-11,25.7
+Lakshadweep,2011-12,22.5
+Lakshadweep,2012-13,18.6
+Madhya Pradesh,2004-05,41.3
+Madhya Pradesh,2005-06,40.1
+Madhya Pradesh,2006-07,39.2
+Madhya Pradesh,2007-08,35.6
+Madhya Pradesh,2008-09,38.5
+Madhya Pradesh,2009-10,38.3
+Madhya Pradesh,2010-11,37.6
+Madhya Pradesh,2011-12,34.5
+Madhya Pradesh,2012-13,31.5
+Maharashtra,2004-05,34.4
+Maharashtra,2005-06,31.6
+Maharashtra,2006-07,31.6
+Maharashtra,2007-08,29.8
+Maharashtra,2008-09,23.9
+Maharashtra,2009-10,25.2
+Maharashtra,2010-11,20.7
+Maharashtra,2011-12,20.0
+Maharashtra,2012-13,21.8
+Manipur,2004-05,70.6
+Manipur,2005-06,63.1
+Manipur,2006-07,53.5
+Manipur,2007-08,63.6
+Manipur,2008-09,63.4
+Manipur,2009-10,54.7
+Manipur,2010-11,50.9
+Manipur,2011-12,40.5
+Manipur,2012-13,35.1
+Meghalaya,2004-05,28.4
+Meghalaya,2005-06,40.2
+Meghalaya,2006-07,35.3
+Meghalaya,2007-08,37.6
+Meghalaya,2008-09,37.5
+Meghalaya,2009-10,39.1
+Meghalaya,2010-11,35.8
+Meghalaya,2011-12,31.0
+Meghalaya,2012-13,23.6
+Mizoram,2004-05,66.1
+Mizoram,2005-06,39.2
+Mizoram,2006-07,38.2
+Mizoram,2007-08,44.6
+Mizoram,2008-09,52.7
+Mizoram,2009-10,53.8
+Mizoram,2010-11,45.6
+Mizoram,2011-12,47.7
+Mizoram,2012-13,37.8
+Nagaland,2004-05,48.3
+Nagaland,2005-06,59.0
+Nagaland,2006-07,54.8
+Nagaland,2007-08,55.6
+Nagaland,2008-09,58.3
+Nagaland,2009-10,56.9
+Nagaland,2010-11,48.2
+Nagaland,2011-12,41.5
+Nagaland,2012-13,40.2
+Odisha,2004-05,44.0
+Odisha,2005-06,45.6
+Odisha,2006-07,43.3
+Odisha,2007-08,39.4
+Odisha,2008-09,42.7
+Odisha,2009-10,37.0
+Odisha,2010-11,42.5
+Odisha,2011-12,44.6
+Odisha,2012-13,39.8
+Puducherry,2004-05,18.2
+Puducherry,2005-06,18.5
+Puducherry,2006-07,18.8
+Puducherry,2007-08,5.9
+Puducherry,2008-09,12.2
+Puducherry,2009-10,11.8
+Puducherry,2010-11,12.4
+Puducherry,2011-12,14.7
+Puducherry,2012-13,13.5
+Punjab,2004-05,25.4
+Punjab,2005-06,27.6
+Punjab,2006-07,26.6
+Punjab,2007-08,22.8
+Punjab,2008-09,23.1
+Punjab,2009-10,23.4
+Punjab,2010-11,25.1
+Punjab,2011-12,23.1
+Punjab,2012-13,20.3
+Rajasthan,2004-05,44.7
+Rajasthan,2005-06,39.9
+Rajasthan,2006-07,35.6
+Rajasthan,2007-08,34.7
+Rajasthan,2008-09,31.5
+Rajasthan,2009-10,30.0
+Rajasthan,2010-11,27.9
+Rajasthan,2011-12,27.9
+Rajasthan,2012-13,24.9
+Sikkim,2004-05,50.5
+Sikkim,2005-06,10.7
+Sikkim,2006-07,26.9
+Sikkim,2007-08,36.8
+Sikkim,2008-09,38.8
+Sikkim,2009-10,39.0
+Sikkim,2010-11,33.7
+Sikkim,2011-12,31.1
+Sikkim,2012-13,28.1
+Tamil Nadu,2004-05,19.3
+Tamil Nadu,2005-06,18.7
+Tamil Nadu,2006-07,19.5
+Tamil Nadu,2007-08,18.7
+Tamil Nadu,2008-09,18.1
+Tamil Nadu,2009-10,18.4
+Tamil Nadu,2010-11,13.5
+Tamil Nadu,2011-12,16.3
+Tamil Nadu,2012-13,14.5
+Telangana@,2004-05,
+Telangana@,2005-06,
+Telangana@,2006-07,
+Telangana@,2007-08,
+Telangana@,2008-09,
+Telangana@,2009-10,
+Telangana@,2010-11,
+Telangana@,2011-12,
+Telangana@,2012-13,
+Tripura,2004-05,59.5
+Tripura,2005-06,41.1
+Tripura,2006-07,34.8
+Tripura,2007-08,42.8
+Tripura,2008-09,35.8
+Tripura,2009-10,35.6
+Tripura,2010-11,27.4
+Tripura,2011-12,39.1
+Tripura,2012-13,31.7
+Uttar Pradesh,2004-05,34.4
+Uttar Pradesh,2005-06,32.6
+Uttar Pradesh,2006-07,33.5
+Uttar Pradesh,2007-08,28.6
+Uttar Pradesh,2008-09,30.9
+Uttar Pradesh,2009-10,33.2
+Uttar Pradesh,2010-11,34.0
+Uttar Pradesh,2011-12,32.4
+Uttar Pradesh,2012-13,26.9
+Uttarakhand,2004-05,39.3
+Uttarakhand,2005-06,36.0
+Uttarakhand,2006-07,34.5
+Uttarakhand,2007-08,35.7
+Uttarakhand,2008-09,41.8
+Uttarakhand,2009-10,25.3
+Uttarakhand,2010-11,30.0
+Uttarakhand,2011-12,28.7
+Uttarakhand,2012-13,26.9
+West Bengal,2004-05,28.5
+West Bengal,2005-06,24.8
+West Bengal,2006-07,23.6
+West Bengal,2007-08,21.3
+West Bengal,2008-09,16.8
+West Bengal,2009-10,18.3
+West Bengal,2010-11,22.4
+West Bengal,2011-12,23.2
+West Bengal,2012-13,24.1
+Andaman & Nicobar Islands,2013-14,19.8
+Andaman & Nicobar Islands,2014-15,20.5
+Andaman & Nicobar Islands,2015-16,14.4
+Andaman & Nicobar Islands,2016-17,10.7
+Andaman & Nicobar Islands,2017-18,12.4
+Andaman & Nicobar Islands,2018-19,10.8
+Andaman & Nicobar Islands,2019-20,7.4
+Andaman & Nicobar Islands,2020-21,7.5
+Andaman & Nicobar Islands,2021-22,7.3
+Andaman & Nicobar Islands,2022-23,25.2
+Andhra Pradesh@,2013-14,20.1
+Andhra Pradesh@,2014-15,17.9
+Andhra Pradesh@,2015-16,16.2
+Andhra Pradesh@,2016-17,16.2
+Andhra Pradesh@,2017-18,16.1
+Andhra Pradesh@,2018-19,17.6
+Andhra Pradesh@,2019-20,17.0
+Andhra Pradesh@,2020-21,16.0
+Andhra Pradesh@,2021-22,15.4
+Andhra Pradesh@,2022-23,14.2
+Arunachal Pradesh,2013-14,46.3
+Arunachal Pradesh,2014-15,46.2
+Arunachal Pradesh,2015-16,50.6
+Arunachal Pradesh,2016-17,49.4
+Arunachal Pradesh,2017-18,48.3
+Arunachal Pradesh,2018-19,50.8
+Arunachal Pradesh,2019-20,47.1
+Arunachal Pradesh,2020-21,46.1
+Arunachal Pradesh,2021-22,42.9
+Arunachal Pradesh,2022-23,43.0
+Assam,2013-14,31.1
+Assam,2014-15,27.6
+Assam,2015-16,25.2
+Assam,2016-17,25.0
+Assam,2017-18,24.6
+Assam,2018-19,24.0
+Assam,2019-20,28.0
+Assam,2020-21,28.8
+Assam,2021-22,25.5
+Assam,2022-23,17.6
+Bihar,2013-14,47.3
+Bihar,2014-15,46.3
+Bihar,2015-16,42.8
+Bihar,2016-17,30.3
+Bihar,2017-18,30.3
+Bihar,2018-19,32.5
+Bihar,2019-20,31.1
+Bihar,2020-21,31.3
+Bihar,2021-22,27.3
+Bihar,2022-23,25.8
+Chandigarh,2013-14,19.1
+Chandigarh,2014-15,19.1
+Chandigarh,2015-16,18.7
+Chandigarh,2016-17,18.0
+Chandigarh,2017-18,13.5
+Chandigarh,2018-19,17.1
+Chandigarh,2019-20,15.2
+Chandigarh,2020-21,16.9
+Chandigarh,2021-22,14.1
+Chandigarh,2022-23,16.0
+Chhattisgarh,2013-14,28.4
+Chhattisgarh,2014-15,29.2
+Chhattisgarh,2015-16,30.8
+Chhattisgarh,2016-17,25.6
+Chhattisgarh,2017-18,24.0
+Chhattisgarh,2018-19,25.1
+Chhattisgarh,2019-20,25.8
+Chhattisgarh,2020-21,25.6
+Chhattisgarh,2021-22,23.7
+Chhattisgarh,2022-23,22.2
+Dadra & Nagar Haveli,2013-14,8.5
+Dadra & Nagar Haveli,2014-15,10.3
+Dadra & Nagar Haveli,2015-16,10.1
+Dadra & Nagar Haveli,2016-17,10.8
+Dadra & Nagar Haveli,2017-18,14.0
+Dadra & Nagar Haveli,2018-19,10.7
+Dadra & Nagar Haveli,2019-20,9.6
+Dadra & Nagar Haveli,2020-21,10.1
+Dadra & Nagar Haveli,2021-22,8.9
+Daman & Diu,2013-14,13.8
+Daman & Diu,2014-15,29.6
+Daman & Diu,2015-16,31.8
+Daman & Diu,2016-17,32.8
+Daman & Diu,2017-18,12.7
+Daman & Diu,2018-19,12.4
+Daman & Diu,2019-20,8.5
+Daman & Diu,2020-21,10.7
+Daman & Diu,2021-22,8.9
+Daman & Diu,2022-23,
+Delhi,2013-14,19.9
+Delhi,2014-15,21.5
+Delhi,2015-16,19.6
+Delhi,2016-17,19.4
+Delhi,2017-18,17.4
+Delhi,2018-19,12.6
+Delhi,2019-20,12.4
+Delhi,2020-21,13.5
+Delhi,2021-22,12.6
+Delhi,2022-23,11.6
+Goa,2013-14,12.7
+Goa,2014-15,15.0
+Goa,2015-16,18.0
+Goa,2016-17,18.0
+Goa,2017-18,17.2
+Goa,2018-19,16.2
+Goa,2019-20,10.9
+Goa,2020-21,15.9
+Goa,2021-22,8.1
+Goa,2022-23,7.1
+Gujarat,2013-14,18.1
+Gujarat,2014-15,19.3
+Gujarat,2015-16,19.1
+Gujarat,2016-17,18.2
+Gujarat,2017-18,17.9
+Gujarat,2018-19,20.3
+Gujarat,2019-20,21.6
+Gujarat,2020-21,20.7
+Gujarat,2021-22,18.5
+Gujarat,2022-23,14.9
+Haryana,2013-14,35.8
+Haryana,2014-15,34.0
+Haryana,2015-16,31.6
+Haryana,2016-17,33.7
+Haryana,2017-18,28.2
+Haryana,2018-19,22.8
+Haryana,2019-20,22.6
+Haryana,2020-21,23.8
+Haryana,2021-22,19.5
+Haryana,2022-23,18.8
+Himachal Pradesh,2013-14,21.0
+Himachal Pradesh,2014-15,20.8
+Himachal Pradesh,2015-16,18.8
+Himachal Pradesh,2016-17,22.4
+Himachal Pradesh,2017-18,21.8
+Himachal Pradesh,2018-19,14.3
+Himachal Pradesh,2019-20,14.3
+Himachal Pradesh,2020-21,14.4
+Himachal Pradesh,2021-22,13.7
+Himachal Pradesh,2022-23,14.2
+Jammu & Kashmir and Ladakh,2013-14,54.7
+Jammu & Kashmir and Ladakh,2014-15,53.1
+Jammu & Kashmir and Ladakh,2015-16,50.1
+Jammu & Kashmir and Ladakh,2016-17,47.0
+Jammu & Kashmir and Ladakh,2017-18,45.5
+Jammu & Kashmir and Ladakh,2018-19,42.2
+Jammu & Kashmir and Ladakh,2019-20,37.2
+Jammu & Kashmir and Ladakh,2020-21,43.9
+Jammu & Kashmir and Ladakh,2021-22,44.2
+Jammu & Kashmir and Ladakh,2022-23,50.9
+Jharkhand,2013-14,13.1
+Jharkhand,2014-15,17.2
+Jharkhand,2015-16,17.0
+Jharkhand,2016-17,16.3
+Jharkhand,2017-18,16.3
+Jharkhand,2018-19,18.4
+Jharkhand,2019-20,16.8
+Jharkhand,2020-21,21.0
+Jharkhand,2021-22,22.7
+Jharkhand,2022-23,23.0
+Karnataka,2013-14,10.2
+Karnataka,2014-15,11.5
+Karnataka,2015-16,10.5
+Karnataka,2016-17,13.4
+Karnataka,2017-18,13.3
+Karnataka,2018-19,16.0
+Karnataka,2019-20,17.2
+Karnataka,2020-21,16.7
+Karnataka,2021-22,16.4
+Karnataka,2022-23,16.3
+Kerala,2013-14,15.0
+Kerala,2014-15,15.4
+Kerala,2015-16,11.6
+Kerala,2016-17,18.1
+Kerala,2017-18,15.8
+Kerala,2018-19,16.4
+Kerala,2019-20,14.8
+Kerala,2020-21,13.5
+Kerala,2021-22,13.7
+Kerala,2022-23,13.5
+Lakshadweep,2013-14,11.2
+Lakshadweep,2014-15,3.6
+Lakshadweep,2015-16,9.8
+Lakshadweep,2016-17,7.0
+Lakshadweep,2017-18,3.6
+Lakshadweep,2018-19,2.2
+Lakshadweep,2019-20,2.3
+Lakshadweep,2020-21,5.7
+Lakshadweep,2021-22,14.6
+Lakshadweep,2022-23,14.0
+Madhya Pradesh,2013-14,31.5
+Madhya Pradesh,2014-15,32.3
+Madhya Pradesh,2015-16,28.6
+Madhya Pradesh,2016-17,26.8
+Madhya Pradesh,2017-18,26.8
+Madhya Pradesh,2018-19,27.7
+Madhya Pradesh,2019-20,27.3
+Madhya Pradesh,2020-21,27.6
+Madhya Pradesh,2021-22,24.7
+Madhya Pradesh,2022-23,22.4
+Maharashtra,2013-14,21.8
+Maharashtra,2014-15,20.4
+Maharashtra,2015-16,19.9
+Maharashtra,2016-17,18.2
+Maharashtra,2017-18,17.9
+Maharashtra,2018-19,19.5
+Maharashtra,2019-20,21.2
+Maharashtra,2020-21,19.6
+Maharashtra,2021-22,17.4
+Maharashtra,2022-23,14.8
+Manipur,2013-14,38.5
+Manipur,2014-15,40.9
+Manipur,2015-16,44.5
+Manipur,2016-17,36.5
+Manipur,2017-18,36.4
+Manipur,2018-19,35.6
+Manipur,2019-20,34.5
+Manipur,2020-21,37.3
+Manipur,2021-22,32.0
+Manipur,2022-23,21.4
+Meghalaya,2013-14,21.4
+Meghalaya,2014-15,33.1
+Meghalaya,2015-16,32.3
+Meghalaya,2016-17,35.7
+Meghalaya,2017-18,35.1
+Meghalaya,2018-19,43.1
+Meghalaya,2019-20,40.6
+Meghalaya,2020-21,34.7
+Meghalaya,2021-22,34.2
+Meghalaya,2022-23,22.1
+Mizoram,2013-14,41.5
+Mizoram,2014-15,42.1
+Mizoram,2015-16,36.1
+Mizoram,2016-17,35.5
+Mizoram,2017-18,24.2
+Mizoram,2018-19,25.2
+Mizoram,2019-20,21.9
+Mizoram,2020-21,23.9
+Mizoram,2021-22,22.8
+Mizoram,2022-23,18.7
+Nagaland,2013-14,35.8
+Nagaland,2014-15,26.5
+Nagaland,2015-16,29.9
+Nagaland,2016-17,20.8
+Nagaland,2017-18,19.7
+Nagaland,2018-19,20.7
+Nagaland,2019-20,20.5
+Nagaland,2020-21,21.9
+Nagaland,2021-22,20.8
+Nagaland,2022-23,20.5
+Odisha,2013-14,38.9
+Odisha,2014-15,42.0
+Odisha,2015-16,39.1
+Odisha,2016-17,38.2
+Odisha,2017-18,38.1
+Odisha,2018-19,34.9
+Odisha,2019-20,22.7
+Odisha,2020-21,24.4
+Odisha,2021-22,22.9
+Odisha,2022-23,21.3
+Puducherry,2013-14,14.8
+Puducherry,2014-15,14.9
+Puducherry,2015-16,14.0
+Puducherry,2016-17,15.6
+Puducherry,2017-18,17.9
+Puducherry,2018-19,13.3
+Puducherry,2019-20,15.1
+Puducherry,2020-21,12.1
+Puducherry,2021-22,15.0
+Puducherry,2022-23,14.6
+Punjab,2013-14,20.7
+Punjab,2014-15,18.5
+Punjab,2015-16,18.5
+Punjab,2016-17,17.6
+Punjab,2017-18,17.5
+Punjab,2018-19,14.7
+Punjab,2019-20,16.0
+Punjab,2020-21,14.8
+Punjab,2021-22,14.5
+Punjab,2022-23,14.2
+Rajasthan,2013-14,26.9
+Rajasthan,2014-15,27.5
+Rajasthan,2015-16,29.1
+Rajasthan,2016-17,29.7
+Rajasthan,2017-18,28.7
+Rajasthan,2018-19,24.8
+Rajasthan,2019-20,24.3
+Rajasthan,2020-21,27.6
+Rajasthan,2021-22,28.2
+Rajasthan,2022-23,20.3
+Sikkim,2013-14,23.1
+Sikkim,2014-15,25.0
+Sikkim,2015-16,26.5
+Sikkim,2016-17,23.8
+Sikkim,2017-18,35.5
+Sikkim,2018-19,32.7
+Sikkim,2019-20,34.3
+Sikkim,2020-21,33.9
+Sikkim,2021-22,31.9
+Sikkim,2022-23,27.7
+Tamil Nadu,2013-14,10.8
+Tamil Nadu,2014-15,11.1
+Tamil Nadu,2015-16,10.8
+Tamil Nadu,2016-17,12.6
+Tamil Nadu,2017-18,15.9
+Tamil Nadu,2018-19,19.1
+Tamil Nadu,2019-20,17.4
+Tamil Nadu,2020-21,13.3
+Tamil Nadu,2021-22,13.4
+Tamil Nadu,2022-23,15.3
+Telangana@,2013-14,
+Telangana@,2014-15,15.7
+Telangana@,2015-16,16.5
+Telangana@,2016-17,18.7
+Telangana@,2017-18,18.3
+Telangana@,2018-19,14.9
+Telangana@,2019-20,15.3
+Telangana@,2020-21,15.0
+Telangana@,2021-22,14.4
+Telangana@,2022-23,12.2
+Tripura,2013-14,35.4
+Tripura,2014-15,35.9
+Tripura,2015-16,30.6
+Tripura,2016-17,30.4
+Tripura,2017-18,29.9
+Tripura,2018-19,26.7
+Tripura,2019-20,24.3
+Tripura,2020-21,23.7
+Tripura,2021-22,23.0
+Tripura,2022-23,28.8
+Uttar Pradesh,2013-14,29.1
+Uttar Pradesh,2014-15,27.2
+Uttar Pradesh,2015-16,24.5
+Uttar Pradesh,2016-17,23.6
+Uttar Pradesh,2017-18,23.2
+Uttar Pradesh,2018-19,21.2
+Uttar Pradesh,2019-20,22.4
+Uttar Pradesh,2020-21,25.1
+Uttar Pradesh,2021-22,21.8
+Uttar Pradesh,2022-23,20.9
+Uttarakhand,2013-14,21.8
+Uttarakhand,2014-15,24.5
+Uttarakhand,2015-16,25.6
+Uttarakhand,2016-17,25.4
+Uttarakhand,2017-18,25.0
+Uttarakhand,2018-19,22.2
+Uttarakhand,2019-20,20.1
+Uttarakhand,2020-21,22.0
+Uttarakhand,2021-22,21.3
+Uttarakhand,2022-23,18.4
+West Bengal,2013-14,24.1
+West Bengal,2014-15,24.7
+West Bengal,2015-16,22.2
+West Bengal,2016-17,22.4
+West Bengal,2017-18,22.2
+West Bengal,2018-19,18.3
+West Bengal,2019-20,16.3
+West Bengal,2020-21,17.6
+West Bengal,2021-22,16.9
+West Bengal,2022-23,18.2

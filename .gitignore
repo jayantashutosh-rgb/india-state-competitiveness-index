@@ -9,3 +9,12 @@ venv/
 Thumbs.db
 # Local data and secrets (added in later phases)
 *.env
+
+# Large source files reviewed during the audit but not used in the index.
+# They can be downloaded from the official sources listed in docs/DATA_INVENTORY.md.
+data/raw/HANDBOOK OF STATISTICS ON THE INDIAN ECONOMY 2023-24 RBI.pdf
+data/raw/Startup IndiaDPIIT (State-wise Startup Data)PDF.pdf
+data/raw/Sustainable Development Goals – National Indicator Framework Progress Report 2026.pdf
+data/raw/PLFS_changes_in_2025_Final.pdf
+data/raw/Monthly Infrastructure Performance Review Report – JUNE 2025.pdf
+data/raw/GSDP.xlsx

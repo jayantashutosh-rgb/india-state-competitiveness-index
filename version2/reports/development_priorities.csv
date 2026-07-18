@@ -1,0 +1,34 @@
+state,rank,main_priority,secondary_priority,smallest_gap
+Goa,1,Jobs,Finance,Finance
+Tamil Nadu,2,Investment,Manufacturing,Power losses
+Gujarat,3,Education,Health,Roads
+Puducherry,4,Roads,MSMEs,Finance
+Telangana,5,Manufacturing,Investment,Education
+Andhra Pradesh,6,Manufacturing,Investment,Health
+Punjab,7,Manufacturing,Finance,Roads
+Maharashtra,8,Industry,Investment,Roads
+Himachal Pradesh,9,MSMEs,Finance,Power supply
+Haryana,10,Health,Power losses,Industry
+Uttarakhand,11,Finance,Industry,Jobs
+Karnataka,12,Investment,Industry,Power losses
+Delhi,13,Investment,Manufacturing,MSMEs
+Odisha,14,Industry,MSMEs,Power supply
+Kerala,15,Investment,Manufacturing,Finance
+Sikkim,16,Investment,Industry,Power supply
+West Bengal,17,Industry,Investment,Roads
+Rajasthan,18,Industry,Manufacturing,Power supply
+Chandigarh,19,Investment,Manufacturing,Finance
+Assam,20,Industry,Education,Jobs
+Jharkhand,21,Industry,MSMEs,Manufacturing
+Chhattisgarh,22,Health,Industry,Power supply
+Mizoram,23,Manufacturing,Investment,Power supply
+Madhya Pradesh,24,Industry,Education,Roads
+Tripura,25,Investment,Manufacturing,Power supply
+Jammu & Kashmir,26,Industry,Investment,Power supply
+Uttar Pradesh,27,Industry,MSMEs,Power supply
+Manipur,28,Manufacturing,Investment,Power supply
+Andaman & Nicobar Islands,29,Industry,Manufacturing,Roads
+Bihar,30,Industry,Education,Jobs
+Meghalaya,31,MSMEs,Industry,Power supply
+Nagaland,32,Manufacturing,Investment,Power supply
+Arunachal Pradesh,33,Power losses,Manufacturing,Power supply

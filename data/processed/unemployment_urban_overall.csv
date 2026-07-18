@@ -1,0 +1,433 @@
+state,year,value
+Andhra Pradesh,1993-94,30.0
+Andhra Pradesh,1999-00,39.0
+Andhra Pradesh,2004-05,36.0
+Andhra Pradesh,2009-10,31.0
+Andhra Pradesh,2011-12,43.0
+Andhra Pradesh,2017-18,66.0
+Andhra Pradesh,2018-19,73.0
+Andhra Pradesh,2019-20,67.0
+Andhra Pradesh,2020-21,60.0
+Andhra Pradesh,2021-22,63.0
+Andhra Pradesh,2022-23,65.0
+Andhra Pradesh,2023-24,59.0
+Arunachal Pradesh,1993-94,26.0
+Arunachal Pradesh,1999-00,29.0
+Arunachal Pradesh,2004-05,12.0
+Arunachal Pradesh,2009-10,34.0
+Arunachal Pradesh,2011-12,48.0
+Arunachal Pradesh,2017-18,99.0
+Arunachal Pradesh,2018-19,111.0
+Arunachal Pradesh,2019-20,90.0
+Arunachal Pradesh,2020-21,106.0
+Arunachal Pradesh,2021-22,120.0
+Arunachal Pradesh,2022-23,109.0
+Arunachal Pradesh,2023-24,128.0
+Assam,1993-94,89.0
+Assam,1999-00,97.0
+Assam,2004-05,72.0
+Assam,2009-10,52.0
+Assam,2011-12,56.0
+Assam,2017-18,63.0
+Assam,2018-19,107.0
+Assam,2019-20,87.0
+Assam,2020-21,78.0
+Assam,2021-22,94.0
+Assam,2022-23,61.0
+Assam,2023-24,74.0
+Bihar,1993-94,71.0
+Bihar,1999-00,74.0
+Bihar,2004-05,64.0
+Bihar,2009-10,73.0
+Bihar,2011-12,56.0
+Bihar,2017-18,90.0
+Bihar,2018-19,105.0
+Bihar,2019-20,86.0
+Bihar,2020-21,96.0
+Bihar,2021-22,103.0
+Bihar,2022-23,77.0
+Bihar,2023-24,73.0
+Chhattisgarh,1993-94,
+Chhattisgarh,1999-00,
+Chhattisgarh,2004-05,35.0
+Chhattisgarh,2009-10,29.0
+Chhattisgarh,2011-12,43.0
+Chhattisgarh,2017-18,75.0
+Chhattisgarh,2018-19,55.0
+Chhattisgarh,2019-20,88.0
+Chhattisgarh,2020-21,63.0
+Chhattisgarh,2021-22,72.0
+Chhattisgarh,2022-23,78.0
+Chhattisgarh,2023-24,76.0
+Delhi,1993-94,15.0
+Delhi,1999-00,33.0
+Delhi,2004-05,48.0
+Delhi,2009-10,26.0
+Delhi,2011-12,35.0
+Delhi,2017-18,98.0
+Delhi,2018-19,108.0
+Delhi,2019-20,89.0
+Delhi,2020-21,63.0
+Delhi,2021-22,53.0
+Delhi,2022-23,17.0
+Delhi,2023-24,20.0
+Goa,1993-94,101.0
+Goa,1999-00,185.0
+Goa,2004-05,87.0
+Goa,2009-10,41.0
+Goa,2011-12,46.0
+Goa,2017-18,138.0
+Goa,2018-19,91.0
+Goa,2019-20,84.0
+Goa,2020-21,109.0
+Goa,2021-22,116.0
+Goa,2022-23,87.0
+Goa,2023-24,82.0
+Gujarat,1993-94,33.0
+Gujarat,1999-00,20.0
+Gujarat,2004-05,24.0
+Gujarat,2009-10,18.0
+Gujarat,2011-12,8.0
+Gujarat,2017-18,43.0
+Gujarat,2018-19,32.0
+Gujarat,2019-20,30.0
+Gujarat,2020-21,46.0
+Gujarat,2021-22,28.0
+Gujarat,2022-23,22.0
+Gujarat,2023-24,23.0
+Haryana,1993-94,26.0
+Haryana,1999-00,27.0
+Haryana,2004-05,40.0
+Haryana,2009-10,25.0
+Haryana,2011-12,42.0
+Haryana,2017-18,73.0
+Haryana,2018-19,87.0
+Haryana,2019-20,65.0
+Haryana,2020-21,81.0
+Haryana,2021-22,89.0
+Haryana,2022-23,65.0
+Haryana,2023-24,40.0
+Himachal Pradesh,1993-94,26.0
+Himachal Pradesh,1999-00,66.0
+Himachal Pradesh,2004-05,38.0
+Himachal Pradesh,2009-10,49.0
+Himachal Pradesh,2011-12,40.0
+Himachal Pradesh,2017-18,87.0
+Himachal Pradesh,2018-19,88.0
+Himachal Pradesh,2019-20,59.0
+Himachal Pradesh,2020-21,69.0
+Himachal Pradesh,2021-22,87.0
+Himachal Pradesh,2022-23,151.0
+Himachal Pradesh,2023-24,90.0
+Jammu & Kashmir,1993-94,66.0
+Jammu & Kashmir,1999-00,50.0
+Jammu & Kashmir,2004-05,49.0
+Jammu & Kashmir,2009-10,60.0
+Jammu & Kashmir,2011-12,70.0
+Jammu & Kashmir,2017-18,100.0
+Jammu & Kashmir,2018-19,101.0
+Jammu & Kashmir,2019-20,132.0
+Jammu & Kashmir,2020-21,133.0
+Jammu & Kashmir,2021-22,129.0
+Jammu & Kashmir,2022-23,102.0
+Jammu & Kashmir,2023-24,114.0
+Jharkhand,1993-94,
+Jharkhand,1999-00,
+Jharkhand,2004-05,65.0
+Jharkhand,2009-10,63.0
+Jharkhand,2011-12,51.0
+Jharkhand,2017-18,105.0
+Jharkhand,2018-19,87.0
+Jharkhand,2019-20,96.0
+Jharkhand,2020-21,93.0
+Jharkhand,2021-22,61.0
+Jharkhand,2022-23,63.0
+Jharkhand,2023-24,58.0
+Karnataka,1993-94,36.0
+Karnataka,1999-00,33.0
+Karnataka,2004-05,28.0
+Karnataka,2009-10,27.0
+Karnataka,2011-12,29.0
+Karnataka,2017-18,65.0
+Karnataka,2018-19,52.0
+Karnataka,2019-20,68.0
+Karnataka,2020-21,38.0
+Karnataka,2021-22,50.0
+Karnataka,2022-23,42.0
+Karnataka,2023-24,42.0
+Kerala,1993-94,103.0
+Kerala,1999-00,102.0
+Kerala,2004-05,156.0
+Kerala,2009-10,73.0
+Kerala,2011-12,61.0
+Kerala,2017-18,132.0
+Kerala,2018-19,97.0
+Kerala,2019-20,104.0
+Kerala,2020-21,116.0
+Kerala,2021-22,103.0
+Kerala,2022-23,76.0
+Kerala,2023-24,67.0
+Madhya Pradesh,1993-94,50.0
+Madhya Pradesh,1999-00,35.0
+Madhya Pradesh,2004-05,28.0
+Madhya Pradesh,2009-10,29.0
+Madhya Pradesh,2011-12,26.0
+Madhya Pradesh,2017-18,77.0
+Madhya Pradesh,2018-19,74.0
+Madhya Pradesh,2019-20,70.0
+Madhya Pradesh,2020-21,47.0
+Madhya Pradesh,2021-22,49.0
+Madhya Pradesh,2022-23,48.0
+Madhya Pradesh,2023-24,28.0
+Maharashtra,1993-94,44.0
+Maharashtra,1999-00,58.0
+Maharashtra,2004-05,36.0
+Maharashtra,2009-10,32.0
+Maharashtra,2011-12,23.0
+Maharashtra,2017-18,74.0
+Maharashtra,2018-19,64.0
+Maharashtra,2019-20,44.0
+Maharashtra,2020-21,65.0
+Maharashtra,2021-22,50.0
+Maharashtra,2022-23,46.0
+Maharashtra,2023-24,52.0
+Manipur,1993-94,42.0
+Manipur,1999-00,67.0
+Manipur,2004-05,55.0
+Manipur,2009-10,48.0
+Manipur,2011-12,71.0
+Manipur,2017-18,114.0
+Manipur,2018-19,92.0
+Manipur,2019-20,102.0
+Manipur,2020-21,99.0
+Manipur,2021-22,77.0
+Manipur,2022-23,53.0
+Manipur,2023-24,75.0
+Meghalaya,1993-94,17.0
+Meghalaya,1999-00,46.0
+Meghalaya,2004-05,35.0
+Meghalaya,2009-10,51.0
+Meghalaya,2011-12,28.0
+Meghalaya,2017-18,67.0
+Meghalaya,2018-19,75.0
+Meghalaya,2019-20,109.0
+Meghalaya,2020-21,71.0
+Meghalaya,2021-22,89.0
+Meghalaya,2022-23,123.0
+Meghalaya,2023-24,140.0
+Mizoram,1993-94,5.0
+Mizoram,1999-00,30.0
+Mizoram,2004-05,19.0
+Mizoram,2009-10,28.0
+Mizoram,2011-12,50.0
+Mizoram,2017-18,144.0
+Mizoram,2018-19,91.0
+Mizoram,2019-20,77.0
+Mizoram,2020-21,44.0
+Mizoram,2021-22,72.0
+Mizoram,2022-23,35.0
+Mizoram,2023-24,34.0
+Nagaland,1993-94,68.0
+Nagaland,1999-00,91.0
+Nagaland,2004-05,55.0
+Nagaland,2009-10,92.0
+Nagaland,2011-12,238.0
+Nagaland,2017-18,211.0
+Nagaland,2018-19,211.0
+Nagaland,2019-20,257.0
+Nagaland,2020-21,240.0
+Nagaland,2021-22,146.0
+Nagaland,2022-23,86.0
+Nagaland,2023-24,113.0
+Odisha,1993-94,65.0
+Odisha,1999-00,67.0
+Odisha,2004-05,134.0
+Odisha,2009-10,42.0
+Odisha,2011-12,35.0
+Odisha,2017-18,83.0
+Odisha,2018-19,127.0
+Odisha,2019-20,77.0
+Odisha,2020-21,78.0
+Odisha,2021-22,105.0
+Odisha,2022-23,62.0
+Odisha,2023-24,68.0
+Punjab,1993-94,34.0
+Punjab,1999-00,27.0
+Punjab,2004-05,50.0
+Punjab,2009-10,48.0
+Punjab,2011-12,28.0
+Punjab,2017-18,77.0
+Punjab,2018-19,70.0
+Punjab,2019-20,77.0
+Punjab,2020-21,61.0
+Punjab,2021-22,61.0
+Punjab,2022-23,60.0
+Punjab,2023-24,56.0
+Rajasthan,1993-94,14.0
+Rajasthan,1999-00,25.0
+Rajasthan,2004-05,29.0
+Rajasthan,2009-10,22.0
+Rajasthan,2011-12,31.0
+Rajasthan,2017-18,72.0
+Rajasthan,2018-19,95.0
+Rajasthan,2019-20,90.0
+Rajasthan,2020-21,102.0
+Rajasthan,2021-22,108.0
+Rajasthan,2022-23,85.0
+Rajasthan,2023-24,77.0
+Sikkim,1993-94,31.0
+Sikkim,1999-00,75.0
+Sikkim,2004-05,37.0
+Sikkim,2009-10,
+Sikkim,2011-12,23.0
+Sikkim,2017-18,58.0
+Sikkim,2018-19,49.0
+Sikkim,2019-20,29.0
+Sikkim,2020-21,30.0
+Sikkim,2021-22,30.0
+Sikkim,2022-23,22.0
+Sikkim,2023-24,30.0
+Tamil Nadu,1993-94,50.0
+Tamil Nadu,1999-00,40.0
+Tamil Nadu,2004-05,35.0
+Tamil Nadu,2009-10,32.0
+Tamil Nadu,2011-12,27.0
+Tamil Nadu,2017-18,72.0
+Tamil Nadu,2018-19,67.0
+Tamil Nadu,2019-20,58.0
+Tamil Nadu,2020-21,58.0
+Tamil Nadu,2021-22,57.0
+Tamil Nadu,2022-23,51.0
+Tamil Nadu,2023-24,41.0
+Telangana,1993-94,
+Telangana,1999-00,
+Telangana,2004-05,
+Telangana,2009-10,
+Telangana,2011-12,
+Telangana,2017-18,94.0
+Telangana,2018-19,112.0
+Telangana,2019-20,103.0
+Telangana,2020-21,77.0
+Telangana,2021-22,69.0
+Telangana,2022-23,78.0
+Telangana,2023-24,73.0
+Tripura,1993-94,85.0
+Tripura,1999-00,58.0
+Tripura,2004-05,280.0
+Tripura,2009-10,171.0
+Tripura,2011-12,252.0
+Tripura,2017-18,87.0
+Tripura,2018-19,135.0
+Tripura,2019-20,46.0
+Tripura,2020-21,46.0
+Tripura,2021-22,43.0
+Tripura,2022-23,30.0
+Tripura,2023-24,32.0
+Uttarakhand,1993-94,
+Uttarakhand,1999-00,
+Uttarakhand,2004-05,54.0
+Uttarakhand,2009-10,29.0
+Uttarakhand,2011-12,53.0
+Uttarakhand,2017-18,95.0
+Uttarakhand,2018-19,134.0
+Uttarakhand,2019-20,91.0
+Uttarakhand,2020-21,105.0
+Uttarakhand,2021-22,106.0
+Uttarakhand,2022-23,69.0
+Uttarakhand,2023-24,58.0
+Uttar Pradesh,1993-94,29.0
+Uttar Pradesh,1999-00,41.0
+Uttar Pradesh,2004-05,33.0
+Uttar Pradesh,2009-10,29.0
+Uttar Pradesh,2011-12,41.0
+Uttar Pradesh,2017-18,97.0
+Uttar Pradesh,2018-19,106.0
+Uttar Pradesh,2019-20,88.0
+Uttar Pradesh,2020-21,80.0
+Uttar Pradesh,2021-22,67.0
+Uttar Pradesh,2022-23,65.0
+Uttar Pradesh,2023-24,67.0
+West Bengal,1993-94,79.0
+West Bengal,1999-00,76.0
+West Bengal,2004-05,62.0
+West Bengal,2009-10,40.0
+West Bengal,2011-12,48.0
+West Bengal,2017-18,65.0
+West Bengal,2018-19,49.0
+West Bengal,2019-20,52.0
+West Bengal,2020-21,44.0
+West Bengal,2021-22,44.0
+West Bengal,2022-23,38.0
+West Bengal,2023-24,33.0
+Chandigarh,1993-94,72.0
+Chandigarh,1999-00,48.0
+Chandigarh,2004-05,40.0
+Chandigarh,2009-10,34.0
+Chandigarh,2011-12,64.0
+Chandigarh,2017-18,92.0
+Chandigarh,2018-19,82.0
+Chandigarh,2019-20,61.0
+Chandigarh,2020-21,77.0
+Chandigarh,2021-22,63.0
+Chandigarh,2022-23,40.0
+Chandigarh,2023-24,71.0
+Dadra & Nagar Haveli,1993-94,
+Dadra & Nagar Haveli,1999-00,14.0
+Dadra & Nagar Haveli,2004-05,30.0
+Dadra & Nagar Haveli,2009-10,53.0
+Dadra & Nagar Haveli,2011-12,
+Dadra & Nagar Haveli,2017-18,1.0
+Dadra & Nagar Haveli,2018-19,18.0
+Dadra & Nagar Haveli,2019-20,50.0
+Dadra & Nagar Haveli,2020-21,34.0
+Dadra & Nagar Haveli,2021-22,47.0
+Dadra & Nagar Haveli,2022-23,14.0
+Dadra & Nagar Haveli,2023-24,23.0
+Daman & Diu,1993-94,58.0
+Daman & Diu,1999-00,30.0
+Daman & Diu,2004-05,30.0
+Daman & Diu,2009-10,24.0
+Daman & Diu,2011-12,5.0
+Daman & Diu,2017-18,26.0
+Daman & Diu,2018-19,0.0
+Daman & Diu,2019-20,28.0
+Daman & Diu,2020-21,
+Daman & Diu,2021-22,
+Daman & Diu,2022-23,
+Daman & Diu,2023-24,
+Ladakh,1993-94,
+Ladakh,1999-00,
+Ladakh,2004-05,
+Ladakh,2009-10,
+Ladakh,2011-12,
+Ladakh,2017-18,
+Ladakh,2018-19,
+Ladakh,2019-20,10.0
+Ladakh,2020-21,86.0
+Ladakh,2021-22,97.0
+Ladakh,2022-23,108.0
+Ladakh,2023-24,134.0
+Lakshadweep,1993-94,200.0
+Lakshadweep,1999-00,100.0
+Lakshadweep,2004-05,250.0
+Lakshadweep,2009-10,57.0
+Lakshadweep,2011-12,115.0
+Lakshadweep,2017-18,253.0
+Lakshadweep,2018-19,286.0
+Lakshadweep,2019-20,147.0
+Lakshadweep,2020-21,164.0
+Lakshadweep,2021-22,211.0
+Lakshadweep,2022-23,128.0
+Lakshadweep,2023-24,138.0
+Puducherry,1993-94,68.0
+Puducherry,1999-00,41.0
+Puducherry,2004-05,81.0
+Puducherry,2009-10,31.0
+Puducherry,2011-12,29.0
+Puducherry,2017-18,103.0
+Puducherry,2018-19,60.0
+Puducherry,2019-20,76.0
+Puducherry,2020-21,72.0
+Puducherry,2021-22,45.0
+Puducherry,2022-23,54.0
+Puducherry,2023-24,65.0

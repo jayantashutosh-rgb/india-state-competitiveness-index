@@ -1,0 +1,17 @@
+,entities,missing,year,notes
+factories_t116,36,0,2023-24,
+gfcf_t130,36,0,2023-24,
+per_capita_power,34,2,2024-25,
+roads,35,1,2020,
+td_losses,34,2,2022-23,
+manufacturing_gva,34,2,2024-25,
+total_gva,34,2,2024-25,
+per_capita_nsdp,34,2,2024-25,
+total_nsdp,34,2,2024-25,
+cd_ratio_utilisation,36,0,2025,
+life_expectancy,22,14,2019-23,major states only
+unemployment_rural_overall,35,1,2023-24,
+unemployment_urban_overall,35,1,2023-24,
+ger_secondary_total,36,0,2024-25,
+msme_udyam,36,0,2026,
+telephones,21,-,-,dropped in v1.0 (telecom circles)

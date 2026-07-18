@@ -1,0 +1,492 @@
+state,year,value
+Andhra Pradesh,1993-97,61.2
+Andhra Pradesh,1994-98,63.5
+Andhra Pradesh,1995-99,62.4
+Assam,1993-97,56.6
+Assam,1994-98,57.1
+Assam,1995-99,56.9
+Bihar,1993-97,60.4
+Bihar,1994-98,58.4
+Bihar,1995-99,59.4
+Chhattisgarh,1993-97,
+Chhattisgarh,1994-98,
+Chhattisgarh,1995-99,
+Delhi,1993-97,
+Delhi,1994-98,
+Delhi,1995-99,
+Gujarat,1993-97,60.9
+Gujarat,1994-98,62.9
+Gujarat,1995-99,61.9
+Haryana,1993-97,63.7
+Haryana,1994-98,64.6
+Haryana,1995-99,64.2
+Himachal Pradesh,1993-97,64.6
+Himachal Pradesh,1994-98,65.2
+Himachal Pradesh,1995-99,64.9
+Jammu & Kashmir,1993-97,
+Jammu & Kashmir,1994-98,
+Jammu & Kashmir,1995-99,
+Jharkhand,1993-97,
+Jharkhand,1994-98,
+Jharkhand,1995-99,
+Karnataka,1993-97,61.6
+Karnataka,1994-98,64.9
+Karnataka,1995-99,63.3
+Kerala,1993-97,70.4
+Kerala,1994-98,75.9
+Kerala,1995-99,73.2
+Madhya Pradesh,1993-97,55.6
+Madhya Pradesh,1994-98,55.2
+Madhya Pradesh,1995-99,55.4
+Maharashtra,1993-97,64.1
+Maharashtra,1994-98,66.6
+Maharashtra,1995-99,65.4
+Odisha,1993-97,57.1
+Odisha,1994-98,57.0
+Odisha,1995-99,57.1
+Punjab,1993-97,66.7
+Punjab,1994-98,68.8
+Punjab,1995-99,67.8
+Rajasthan,1993-97,59.1
+Rajasthan,1994-98,60.1
+Rajasthan,1995-99,59.6
+Tamil Nadu,1993-97,63.2
+Tamil Nadu,1994-98,65.1
+Tamil Nadu,1995-99,64.2
+Uttar Pradesh,1993-97,58.1
+Uttar Pradesh,1994-98,56.9
+Uttar Pradesh,1995-99,57.5
+Uttarakhand,1993-97,
+Uttarakhand,1994-98,
+Uttarakhand,1995-99,
+West Bengal,1993-97,62.2
+West Bengal,1994-98,63.6
+West Bengal,1995-99,62.9
+Andhra Pradesh,2000-04,62.3
+Andhra Pradesh,2001-05,67.1
+Andhra Pradesh,2002-06,64.6
+Andhra Pradesh,2003-07,62.8
+Assam,2000-04,58.2
+Assam,2001-05,59.6
+Assam,2002-06,58.8
+Assam,2003-07,58.4
+Bihar,2000-04,64.3
+Bihar,2001-05,63.9
+Bihar,2002-06,64.1
+Bihar,2003-07,64.2
+Chhattisgarh,2000-04,
+Chhattisgarh,2001-05,
+Chhattisgarh,2002-06,
+Chhattisgarh,2003-07,
+Delhi,2000-04,
+Delhi,2001-05,
+Delhi,2002-06,
+Delhi,2003-07,
+Gujarat,2000-04,63.7
+Gujarat,2001-05,67.6
+Gujarat,2002-06,65.6
+Gujarat,2003-07,63.7
+Haryana,2000-04,64.6
+Haryana,2001-05,67.8
+Haryana,2002-06,66.1
+Haryana,2003-07,65.0
+Himachal Pradesh,2000-04,67.3
+Himachal Pradesh,2001-05,72.0
+Himachal Pradesh,2002-06,69.5
+Himachal Pradesh,2003-07,67.4
+Jammu & Kashmir,2000-04,65.9
+Jammu & Kashmir,2001-05,68.9
+Jammu & Kashmir,2002-06,67.3
+Jammu & Kashmir,2003-07,67.1
+Jharkhand,2000-04,
+Jharkhand,2001-05,
+Jharkhand,2002-06,
+Jharkhand,2003-07,
+Karnataka,2000-04,63.3
+Karnataka,2001-05,68.6
+Karnataka,2002-06,65.8
+Karnataka,2003-07,63.9
+Kerala,2000-04,70.3
+Kerala,2001-05,76.1
+Kerala,2002-06,73.2
+Kerala,2003-07,70.5
+Madhya Pradesh,2000-04,58.6
+Madhya Pradesh,2001-05,60.0
+Madhya Pradesh,2002-06,59.3
+Madhya Pradesh,2003-07,58.9
+Maharashtra,2000-04,65.8
+Maharashtra,2001-05,69.2
+Maharashtra,2002-06,67.5
+Maharashtra,2003-07,66.3
+Odisha,2000-04,59.3
+Odisha,2001-05,61.5
+Odisha,2002-06,60.4
+Odisha,2003-07,59.6
+Punjab,2000-04,67.2
+Punjab,2001-05,69.5
+Punjab,2002-06,68.3
+Punjab,2003-07,67.5
+Rajasthan,2000-04,62.6
+Rajasthan,2001-05,65.6
+Rajasthan,2002-06,64.1
+Rajasthan,2003-07,63.0
+Tamil Nadu,2000-04,65.3
+Tamil Nadu,2001-05,68.2
+Tamil Nadu,2002-06,66.7
+Tamil Nadu,2003-07,65.7
+Uttar Pradesh,2000-04,60.4
+Uttar Pradesh,2001-05,60.7
+Uttar Pradesh,2002-06,60.5
+Uttar Pradesh,2003-07,60.6
+Uttarakhand,2000-04,
+Uttarakhand,2001-05,
+Uttarakhand,2002-06,
+Uttarakhand,2003-07,
+West Bengal,2000-04,65.3
+West Bengal,2001-05,68.5
+West Bengal,2002-06,66.8
+West Bengal,2003-07,65.7
+Andhra Pradesh,2004-08,63.5
+Andhra Pradesh,2005-09,68.1
+Andhra Pradesh,2006-10,65.7
+Andhra Pradesh,2007-11,63.4
+Assam,2004-08,60.0
+Assam,2005-09,62.3
+Assam,2006-10,61.0
+Assam,2007-11,60.5
+Bihar,2004-08,64.2
+Bihar,2005-09,64.7
+Bihar,2006-10,64.4
+Bihar,2007-11,64.9
+Chhattisgarh,2004-08,
+Chhattisgarh,2005-09,
+Chhattisgarh,2006-10,
+Chhattisgarh,2007-11,
+Delhi,2004-08,
+Delhi,2005-09,
+Delhi,2006-10,
+Delhi,2007-11,
+Gujarat,2004-08,64.3
+Gujarat,2005-09,68.7
+Gujarat,2006-10,66.4
+Gujarat,2007-11,64.4
+Haryana,2004-08,65.3
+Haryana,2005-09,69.0
+Haryana,2006-10,67.1
+Haryana,2007-11,65.1
+Himachal Pradesh,2004-08,67.7
+Himachal Pradesh,2005-09,72.1
+Himachal Pradesh,2006-10,69.8
+Himachal Pradesh,2007-11,67.7
+Jammu & Kashmir,2004-08,69.0
+Jammu & Kashmir,2005-09,70.6
+Jammu & Kashmir,2006-10,69.8
+Jammu & Kashmir,2007-11,68.9
+Jharkhand,2004-08,
+Jharkhand,2005-09,
+Jharkhand,2006-10,
+Jharkhand,2007-11,
+Karnataka,2004-08,64.4
+Karnataka,2005-09,69.2
+Karnataka,2006-10,66.7
+Karnataka,2007-11,64.6
+Kerala,2004-08,71.2
+Kerala,2005-09,77.4
+Kerala,2006-10,74.3
+Kerala,2007-11,71.3
+Madhya Pradesh,2004-08,60.3
+Madhya Pradesh,2005-09,62.7
+Madhya Pradesh,2006-10,61.4
+Madhya Pradesh,2007-11,60.8
+Maharashtra,2004-08,67.6
+Maharashtra,2005-09,71.6
+Maharashtra,2006-10,69.5
+Maharashtra,2007-11,67.6
+Odisha,2004-08,62.1
+Odisha,2005-09,63.0
+Odisha,2006-10,62.1
+Odisha,2007-11,61.7
+Punjab,2004-08,67.5
+Punjab,2005-09,71.1
+Punjab,2006-10,69.2
+Punjab,2007-11,67.2
+Rajasthan,2004-08,64.3
+Rajasthan,2005-09,67.4
+Rajasthan,2006-10,65.8
+Rajasthan,2007-11,64.7
+Tamil Nadu,2004-08,66.6
+Tamil Nadu,2005-09,70.1
+Tamil Nadu,2006-10,68.3
+Tamil Nadu,2007-11,66.9
+Uttar Pradesh,2004-08,61.4
+Uttar Pradesh,2005-09,62.6
+Uttar Pradesh,2006-10,61.9
+Uttar Pradesh,2007-11,61.6
+Uttarakhand,2004-08,
+Uttarakhand,2005-09,
+Uttarakhand,2006-10,
+Uttarakhand,2007-11,
+West Bengal,2004-08,66.7
+West Bengal,2005-09,70.3
+West Bengal,2006-10,68.3
+West Bengal,2007-11,66.9
+Andhra Pradesh,2008-12,64.7
+Andhra Pradesh,2009-13,69.4
+Andhra Pradesh,2010-14,67.0
+Andhra Pradesh,2011-15,65.5
+Assam,2008-12,61.2
+Assam,2009-13,64.8
+Assam,2010-14,62.7
+Assam,2011-15,61.9
+Bihar,2008-12,66.7
+Bihar,2009-13,67.6
+Bihar,2010-14,67.2
+Bihar,2011-15,67.3
+Chhattisgarh,2008-12,
+Chhattisgarh,2009-13,
+Chhattisgarh,2010-14,
+Chhattisgarh,2011-15,
+Delhi,2008-12,
+Delhi,2009-13,
+Delhi,2010-14,
+Delhi,2011-15,
+Gujarat,2008-12,65.5
+Gujarat,2009-13,70.1
+Gujarat,2010-14,67.7
+Gujarat,2011-15,66.0
+Haryana,2008-12,65.4
+Haryana,2009-13,70.1
+Haryana,2010-14,67.6
+Haryana,2011-15,65.8
+Himachal Pradesh,2008-12,68.3
+Himachal Pradesh,2009-13,72.7
+Himachal Pradesh,2010-14,70.5
+Himachal Pradesh,2011-15,69.0
+Jammu & Kashmir,2008-12,69.9
+Jammu & Kashmir,2009-13,72.4
+Jammu & Kashmir,2010-14,71.0
+Jammu & Kashmir,2011-15,70.6
+Jharkhand,2008-12,
+Jharkhand,2009-13,
+Jharkhand,2010-14,
+Jharkhand,2011-15,
+Karnataka,2008-12,65.8
+Karnataka,2009-13,70.3
+Karnataka,2010-14,68.0
+Karnataka,2011-15,66.4
+Kerala,2008-12,71.6
+Kerala,2009-13,77.7
+Kerala,2010-14,74.7
+Kerala,2011-15,71.8
+Madhya Pradesh,2008-12,61.9
+Madhya Pradesh,2009-13,65.0
+Madhya Pradesh,2010-14,63.3
+Madhya Pradesh,2011-15,62.3
+Maharashtra,2008-12,68.8
+Maharashtra,2009-13,72.9
+Maharashtra,2010-14,70.8
+Maharashtra,2011-15,69.4
+Odisha,2008-12,63.4
+Odisha,2009-13,65.3
+Odisha,2010-14,64.3
+Odisha,2011-15,63.8
+Punjab,2008-12,68.1
+Punjab,2009-13,72.9
+Punjab,2010-14,70.3
+Punjab,2011-15,69.1
+Rajasthan,2008-12,65.2
+Rajasthan,2009-13,69.4
+Rajasthan,2010-14,67.2
+Rajasthan,2011-15,65.4
+Tamil Nadu,2008-12,67.9
+Tamil Nadu,2009-13,71.9
+Tamil Nadu,2010-14,69.8
+Tamil Nadu,2011-15,68.2
+Uttar Pradesh,2008-12,62.3
+Uttar Pradesh,2009-13,64.8
+Uttar Pradesh,2010-14,63.5
+Uttar Pradesh,2011-15,62.5
+Uttarakhand,2008-12,
+Uttarakhand,2009-13,
+Uttarakhand,2010-14,
+Uttarakhand,2011-15,
+West Bengal,2008-12,68.1
+West Bengal,2009-13,71.5
+West Bengal,2010-14,69.7
+West Bengal,2011-15,68.5
+Andhra Pradesh,2012-16,68.0
+Andhra Pradesh,2013-17,71.4
+Andhra Pradesh,2014-18,69.6
+Andhra Pradesh,2015-19,68.3
+Assam,2012-16,64.4
+Assam,2013-17,66.8
+Assam,2014-18,65.5
+Assam,2015-19,65.4
+Bihar,2012-16,68.9
+Bihar,2013-17,68.5
+Bihar,2014-18,68.7
+Bihar,2015-19,69.2
+Chhattisgarh,2012-16,63.6
+Chhattisgarh,2013-17,66.8
+Chhattisgarh,2014-18,65.2
+Chhattisgarh,2015-19,63.8
+Delhi,2012-16,72.7
+Delhi,2013-17,75.9
+Delhi,2014-18,74.2
+Delhi,2015-19,73.3
+Gujarat,2012-16,67.4
+Gujarat,2013-17,71.8
+Gujarat,2014-18,69.5
+Gujarat,2015-19,67.6
+Haryana,2012-16,67.2
+Haryana,2013-17,72.0
+Haryana,2014-18,69.4
+Haryana,2015-19,67.6
+Himachal Pradesh,2012-16,69.4
+Himachal Pradesh,2013-17,75.5
+Himachal Pradesh,2014-18,72.3
+Himachal Pradesh,2015-19,69.8
+Jammu & Kashmir,2012-16,71.6
+Jammu & Kashmir,2013-17,76.2
+Jammu & Kashmir,2014-18,73.5
+Jammu & Kashmir,2015-19,72.1
+Jharkhand,2012-16,67.8
+Jharkhand,2013-17,68.0
+Jharkhand,2014-18,67.9
+Jharkhand,2015-19,68.8
+Karnataka,2012-16,67.6
+Karnataka,2013-17,70.7
+Karnataka,2014-18,69.1
+Karnataka,2015-19,67.7
+Kerala,2012-16,72.2
+Kerala,2013-17,77.9
+Kerala,2014-18,75.1
+Kerala,2015-19,72.5
+Madhya Pradesh,2012-16,63.7
+Madhya Pradesh,2013-17,67.2
+Madhya Pradesh,2014-18,65.4
+Madhya Pradesh,2015-19,64.2
+Maharashtra,2012-16,70.8
+Maharashtra,2013-17,73.7
+Maharashtra,2014-18,72.2
+Maharashtra,2015-19,71.2
+Odisha,2012-16,66.2
+Odisha,2013-17,69.1
+Odisha,2014-18,67.6
+Odisha,2015-19,67.1
+Punjab,2012-16,71.0
+Punjab,2013-17,74.2
+Punjab,2014-18,72.5
+Punjab,2015-19,71.0
+Rajasthan,2012-16,66.1
+Rajasthan,2013-17,70.7
+Rajasthan,2014-18,68.3
+Rajasthan,2015-19,66.3
+Tamil Nadu,2012-16,69.5
+Tamil Nadu,2013-17,73.4
+Tamil Nadu,2014-18,71.4
+Tamil Nadu,2015-19,69.9
+Telangana,2012-16,
+Telangana,2013-17,
+Telangana,2014-18,
+Telangana,2015-19,
+Uttar Pradesh,2012-16,63.9
+Uttar Pradesh,2013-17,65.6
+Uttar Pradesh,2014-18,64.8
+Uttar Pradesh,2015-19,64.3
+Uttarakhand,2012-16,68.5
+Uttarakhand,2013-17,74.8
+Uttarakhand,2014-18,71.5
+Uttarakhand,2015-19,68.8
+West Bengal,2012-16,69.8
+West Bengal,2013-17,71.9
+West Bengal,2014-18,70.8
+West Bengal,2015-19,70.4
+Andhra Pradesh,2016-20,69.1
+Andhra Pradesh,2017-21,72.2
+Andhra Pradesh,2018-22,70.6
+Andhra Pradesh,2019-23,68.5
+Assam,2016-20,67.3
+Assam,2017-21,68.6
+Assam,2018-22,67.9
+Assam,2019-23,67.0
+Bihar,2016-20,69.7
+Bihar,2017-21,69.2
+Bihar,2018-22,69.5
+Bihar,2019-23,69.1
+Chhattisgarh,2016-20,63.5
+Chhattisgarh,2017-21,66.8
+Chhattisgarh,2018-22,65.1
+Chhattisgarh,2019-23,62.8
+Delhi,2016-20,74.1
+Delhi,2017-21,77.7
+Delhi,2018-22,75.8
+Delhi,2019-23,73.0
+Gujarat,2016-20,68.1
+Gujarat,2017-21,73.2
+Gujarat,2018-22,70.5
+Gujarat,2019-23,67.4
+Haryana,2016-20,67.3
+Haryana,2017-21,73.0
+Haryana,2018-22,69.9
+Haryana,2019-23,66.3
+Himachal Pradesh,2016-20,70.3
+Himachal Pradesh,2017-21,77.5
+Himachal Pradesh,2018-22,73.5
+Himachal Pradesh,2019-23,69.9
+Jammu & Kashmir,2016-20,72.6
+Jammu & Kashmir,2017-21,76.3
+Jammu & Kashmir,2018-22,74.3
+Jammu & Kashmir,2019-23,72.9
+Jharkhand,2016-20,70.5
+Jharkhand,2017-21,68.9
+Jharkhand,2018-22,69.6
+Jharkhand,2019-23,69.5
+Karnataka,2016-20,67.9
+Karnataka,2017-21,71.9
+Karnataka,2018-22,69.8
+Karnataka,2019-23,67.5
+Kerala,2016-20,71.9
+Kerala,2017-21,78.0
+Kerala,2018-22,75.0
+Kerala,2019-23,71.7
+Madhya Pradesh,2016-20,65.5
+Madhya Pradesh,2017-21,69.5
+Madhya Pradesh,2018-22,67.4
+Madhya Pradesh,2019-23,65.3
+Maharashtra,2016-20,71.6
+Maharashtra,2017-21,74.3
+Maharashtra,2018-22,72.9
+Maharashtra,2019-23,70.8
+Odisha,2016-20,69.1
+Odisha,2017-21,71.4
+Odisha,2018-22,70.3
+Odisha,2019-23,69.2
+Punjab,2016-20,70.8
+Punjab,2017-21,74.5
+Punjab,2018-22,72.5
+Punjab,2019-23,69.3
+Rajasthan,2016-20,67.1
+Rajasthan,2017-21,71.7
+Rajasthan,2018-22,69.4
+Rajasthan,2019-23,67.1
+Tamil Nadu,2016-20,71.0
+Tamil Nadu,2017-21,75.5
+Tamil Nadu,2018-22,73.2
+Tamil Nadu,2019-23,70.6
+Telangana,2016-20,68.7
+Telangana,2017-21,71.4
+Telangana,2018-22,70.0
+Telangana,2019-23,68.5
+Uttar Pradesh,2016-20,65.3
+Uttar Pradesh,2017-21,66.7
+Uttar Pradesh,2018-22,66.0
+Uttar Pradesh,2019-23,65.5
+Uttarakhand,2016-20,67.5
+Uttarakhand,2017-21,73.9
+Uttarakhand,2018-22,70.6
+Uttarakhand,2019-23,67.5
+West Bengal,2016-20,71.1
+West Bengal,2017-21,73.6
+West Bengal,2018-22,72.3
+West Bengal,2019-23,70.7

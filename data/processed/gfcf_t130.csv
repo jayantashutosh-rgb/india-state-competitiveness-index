@@ -1,0 +1,741 @@
+state,year,value
+Andaman & Nicobar Islands,2004-05,66.0
+Andhra Pradesh,2004-05,440332.0
+Arunachal Pradesh,2004-05,
+Assam,2004-05,69245.0
+Bihar,2004-05,11240.0
+Chandigarh,2004-05,7351.0
+Chhattisgarh,2004-05,400580.0
+Dadra & Nagar Haveli,2004-05,96276.0
+Daman & Diu,2004-05,45460.0
+Andaman & Nicobar Islands,2005-06,332.0
+Andhra Pradesh,2005-06,724481.0
+Arunachal Pradesh,2005-06,
+Assam,2005-06,101108.0
+Bihar,2005-06,12120.0
+Chandigarh,2005-06,9909.0
+Chhattisgarh,2005-06,405341.0
+Dadra & Nagar Haveli,2005-06,131774.0
+Daman & Diu,2005-06,99279.0
+Andaman & Nicobar Islands,2006-07,5.0
+Andhra Pradesh,2006-07,1148840.0
+Arunachal Pradesh,2006-07,
+Assam,2006-07,87329.0
+Bihar,2006-07,25702.0
+Chandigarh,2006-07,5025.0
+Chhattisgarh,2006-07,457813.0
+Dadra & Nagar Haveli,2006-07,196072.0
+Daman & Diu,2006-07,103935.0
+Andaman & Nicobar Islands,2007-08,-60.0
+Andhra Pradesh,2007-08,1471340.0
+Arunachal Pradesh,2007-08,
+Assam,2007-08,78687.0
+Bihar,2007-08,32853.0
+Chandigarh,2007-08,13548.0
+Chhattisgarh,2007-08,461632.0
+Dadra & Nagar Haveli,2007-08,212237.0
+Daman & Diu,2007-08,117519.0
+Andaman & Nicobar Islands,2008-09,422.0
+Andhra Pradesh,2008-09,1845334.0
+Arunachal Pradesh,2008-09,
+Assam,2008-09,93358.0
+Bihar,2008-09,24777.0
+Chandigarh,2008-09,15343.0
+Chhattisgarh,2008-09,725681.0
+Dadra & Nagar Haveli,2008-09,347327.0
+Daman & Diu,2008-09,117836.0
+Andaman & Nicobar Islands,2009-10,-173.0
+Andhra Pradesh,2009-10,2646910.0
+Arunachal Pradesh,2009-10,
+Assam,2009-10,134659.0
+Bihar,2009-10,94620.0
+Chandigarh,2009-10,7062.0
+Chhattisgarh,2009-10,728887.0
+Dadra & Nagar Haveli,2009-10,442979.0
+Daman & Diu,2009-10,106201.0
+Andaman & Nicobar Islands,2010-11,83.0
+Andhra Pradesh,2010-11,2330915.0
+Arunachal Pradesh,2010-11,
+Assam,2010-11,169785.0
+Bihar,2010-11,112974.0
+Chandigarh,2010-11,22068.0
+Chhattisgarh,2010-11,658883.0
+Dadra & Nagar Haveli,2010-11,414923.0
+Daman & Diu,2010-11,132474.0
+Andaman & Nicobar Islands,2011-12,280.0
+Andhra Pradesh,2011-12,2333338.0
+Arunachal Pradesh,2011-12,
+Assam,2011-12,382826.0
+Bihar,2011-12,165489.0
+Chandigarh,2011-12,15236.0
+Chhattisgarh,2011-12,1061516.0
+Dadra & Nagar Haveli,2011-12,397013.0
+Daman & Diu,2011-12,144182.0
+Andaman & Nicobar Islands,2012-13,-7.0
+Andhra Pradesh,2012-13,1401341.0
+Arunachal Pradesh,2012-13,
+Assam,2012-13,150364.0
+Bihar,2012-13,104357.0
+Chandigarh,2012-13,5342.0
+Chhattisgarh,2012-13,1072289.0
+Dadra & Nagar Haveli,2012-13,397935.0
+Daman & Diu,2012-13,140112.0
+Andaman & Nicobar Islands,2013-14,404.0
+Andhra Pradesh,2013-14,1374620.0
+Arunachal Pradesh,2013-14,
+Assam,2013-14,191887.0
+Bihar,2013-14,91763.0
+Chandigarh,2013-14,53510.0
+Chhattisgarh,2013-14,1232281.0
+Dadra & Nagar Haveli,2013-14,590692.0
+Daman & Diu,2013-14,187691.0
+Andaman & Nicobar Islands,2014-15,145.0
+Andhra Pradesh,2014-15,1517315.0
+Arunachal Pradesh,2014-15,544.0
+Assam,2014-15,199028.0
+Bihar,2014-15,134790.0
+Chandigarh,2014-15,15140.0
+Chhattisgarh,2014-15,1407004.0
+Dadra & Nagar Haveli,2014-15,144346.0
+Daman & Diu,2014-15,144522.0
+Andaman & Nicobar Islands,2015-16,57.0
+Andhra Pradesh,2015-16,2272830.0
+Arunachal Pradesh,2015-16,1680.0
+Assam,2015-16,1058836.0
+Bihar,2015-16,139208.0
+Chandigarh,2015-16,9642.0
+Chhattisgarh,2015-16,1253597.0
+Dadra & Nagar Haveli,2015-16,185445.0
+Daman & Diu,2015-16,247906.0
+Andaman & Nicobar Islands,2016-17,59.0
+Andhra Pradesh,2016-17,2403902.0
+Arunachal Pradesh,2016-17,2944.0
+Assam,2016-17,240673.0
+Bihar,2016-17,247166.0
+Chandigarh,2016-17,3070.0
+Chhattisgarh,2016-17,1291546.0
+Dadra & Nagar Haveli,2016-17,142138.0
+Daman & Diu,2016-17,261621.0
+Andaman & Nicobar Islands,2017-18,93.0
+Andhra Pradesh,2017-18,1499563.0
+Arunachal Pradesh,2017-18,650.0
+Assam,2017-18,192001.0
+Bihar,2017-18,323458.0
+Chandigarh,2017-18,6624.0
+Chhattisgarh,2017-18,866708.0
+Dadra & Nagar Haveli,2017-18,295789.0
+Daman & Diu,2017-18,211642.0
+Andaman & Nicobar Islands,2018-19,89.0
+Andhra Pradesh,2018-19,2100851.0
+Arunachal Pradesh,2018-19,1750.0
+Assam,2018-19,253079.0
+Bihar,2018-19,195917.0
+Chandigarh,2018-19,-2522.0
+Chhattisgarh,2018-19,990668.0
+Dadra & Nagar Haveli,2018-19,375892.0
+Daman & Diu,2018-19,154802.0
+Andaman & Nicobar Islands,2019-20,80.0
+Andhra Pradesh,2019-20,2645667.0
+Arunachal Pradesh,2019-20,1250.0
+Assam,2019-20,306938.0
+Bihar,2019-20,157129.0
+Chandigarh,2019-20,12922.0
+Chhattisgarh,2019-20,568601.0
+Dadra & Nagar Haveli,2019-20,216617.0
+Daman & Diu,2019-20,175086.0
+Andaman & Nicobar Islands,2020-21,40.0
+Andhra Pradesh,2020-21,2276021.0
+Arunachal Pradesh,2020-21,1772.0
+Assam,2020-21,319395.0
+Bihar,2020-21,257331.0
+Chandigarh,2020-21,13476.0
+Chhattisgarh,2020-21,172832.0
+Dadra & Nagar Haveli,2020-21,279447.0
+Daman & Diu,2020-21,
+Andaman & Nicobar Islands,2021-22,-2.0
+Andhra Pradesh,2021-22,2612421.0
+Arunachal Pradesh,2021-22,17883.0
+Assam,2021-22,603190.0
+Bihar,2021-22,436353.0
+Chandigarh,2021-22,6303.0
+Chhattisgarh,2021-22,898296.0
+Dadra & Nagar Haveli,2021-22,410117.0
+Daman & Diu,2021-22,
+Andaman & Nicobar Islands,2022-23,60.0
+Andhra Pradesh,2022-23,2699581.0
+Arunachal Pradesh,2022-23,9371.0
+Assam,2022-23,925696.0
+Bihar,2022-23,1243343.0
+Chandigarh,2022-23,10441.0
+Chhattisgarh,2022-23,1131527.0
+Dadra & Nagar Haveli,2022-23,591878.0
+Daman & Diu,2022-23,
+Andaman & Nicobar Islands,2023-24,72.0
+Andhra Pradesh,2023-24,3360432.0
+Arunachal Pradesh,2023-24,6193.0
+Assam,2023-24,1215066.0
+Bihar,2023-24,535736.0
+Chandigarh,2023-24,19785.0
+Chhattisgarh,2023-24,1474785.0
+Dadra & Nagar Haveli,2023-24,696009.0
+Daman & Diu,2023-24,
+Delhi,2004-05,53788.0
+Goa,2004-05,43807.0
+Gujarat,2004-05,858338.0
+Haryana,2004-05,366041.0
+Himachal Pradesh,2004-05,60308.0
+Jammu & Kashmir,2004-05,26515.0
+Jharkhand,2004-05,233201.0
+Karnataka,2004-05,607425.0
+Delhi,2005-06,59384.0
+Goa,2005-06,69177.0
+Gujarat,2005-06,2548282.0
+Haryana,2005-06,431504.0
+Himachal Pradesh,2005-06,174099.0
+Jammu & Kashmir,2005-06,33518.0
+Jharkhand,2005-06,400131.0
+Karnataka,2005-06,1150745.0
+Delhi,2006-07,66507.0
+Goa,2006-07,61665.0
+Gujarat,2006-07,1970990.0
+Haryana,2006-07,525174.0
+Himachal Pradesh,2006-07,121024.0
+Jammu & Kashmir,2006-07,63271.0
+Jharkhand,2006-07,356053.0
+Karnataka,2006-07,1027577.0
+Delhi,2007-08,64682.0
+Goa,2007-08,90385.0
+Gujarat,2007-08,2328118.0
+Haryana,2007-08,733673.0
+Himachal Pradesh,2007-08,367642.0
+Jammu & Kashmir,2007-08,80668.0
+Jharkhand,2007-08,413701.0
+Karnataka,2007-08,1321436.0
+Delhi,2008-09,60340.0
+Goa,2008-09,107506.0
+Gujarat,2008-09,3135104.0
+Haryana,2008-09,866919.0
+Himachal Pradesh,2008-09,179940.0
+Jammu & Kashmir,2008-09,51311.0
+Jharkhand,2008-09,910910.0
+Karnataka,2008-09,2320302.0
+Delhi,2009-10,84960.0
+Goa,2009-10,109065.0
+Gujarat,2009-10,3858020.0
+Haryana,2009-10,817828.0
+Himachal Pradesh,2009-10,258850.0
+Jammu & Kashmir,2009-10,80928.0
+Jharkhand,2009-10,818668.0
+Karnataka,2009-10,2669368.0
+Delhi,2010-11,89791.0
+Goa,2010-11,128039.0
+Gujarat,2010-11,4482300.0
+Haryana,2010-11,1031608.0
+Himachal Pradesh,2010-11,528346.0
+Jammu & Kashmir,2010-11,50576.0
+Jharkhand,2010-11,1548595.0
+Karnataka,2010-11,2600209.0
+Delhi,2011-12,162781.0
+Goa,2011-12,174610.0
+Gujarat,2011-12,5209375.0
+Haryana,2011-12,1033740.0
+Himachal Pradesh,2011-12,666657.0
+Jammu & Kashmir,2011-12,70495.0
+Jharkhand,2011-12,1837512.0
+Karnataka,2011-12,3133526.0
+Delhi,2012-13,134501.0
+Goa,2012-13,196116.0
+Gujarat,2012-13,5347358.0
+Haryana,2012-13,2521418.0
+Himachal Pradesh,2012-13,427004.0
+Jammu & Kashmir,2012-13,55207.0
+Jharkhand,2012-13,989424.0
+Karnataka,2012-13,2785952.0
+Delhi,2013-14,90408.0
+Goa,2013-14,91995.0
+Gujarat,2013-14,7421402.0
+Haryana,2013-14,1121834.0
+Himachal Pradesh,2013-14,281570.0
+Jammu & Kashmir,2013-14,34729.0
+Jharkhand,2013-14,867950.0
+Karnataka,2013-14,2147479.0
+Delhi,2014-15,96512.0
+Goa,2014-15,140714.0
+Gujarat,2014-15,9964916.0
+Haryana,2014-15,1392938.0
+Himachal Pradesh,2014-15,195430.0
+Jammu & Kashmir,2014-15,55450.0
+Jharkhand,2014-15,501836.0
+Karnataka,2014-15,2005780.0
+Delhi,2015-16,110818.0
+Goa,2015-16,164869.0
+Gujarat,2015-16,8440358.0
+Haryana,2015-16,1163554.0
+Himachal Pradesh,2015-16,113071.0
+Jammu & Kashmir,2015-16,50576.0
+Jharkhand,2015-16,1270086.0
+Karnataka,2015-16,2256594.0
+Delhi,2016-17,122758.0
+Goa,2016-17,166036.0
+Gujarat,2016-17,9308444.0
+Haryana,2016-17,1580198.0
+Himachal Pradesh,2016-17,268640.0
+Jammu & Kashmir,2016-17,64510.0
+Jharkhand,2016-17,516686.0
+Karnataka,2016-17,2059482.0
+Delhi,2017-18,83194.0
+Goa,2017-18,147534.0
+Gujarat,2017-18,6072768.0
+Haryana,2017-18,1664762.0
+Himachal Pradesh,2017-18,267045.0
+Jammu & Kashmir,2017-18,53405.0
+Jharkhand,2017-18,148830.0
+Karnataka,2017-18,2088495.0
+Delhi,2018-19,99843.0
+Goa,2018-19,180773.0
+Gujarat,2018-19,6733738.0
+Haryana,2018-19,2240823.0
+Himachal Pradesh,2018-19,509758.0
+Jammu & Kashmir,2018-19,69644.0
+Jharkhand,2018-19,12855.0
+Karnataka,2018-19,2708962.0
+Delhi,2019-20,87880.0
+Goa,2019-20,172064.0
+Gujarat,2019-20,7214729.0
+Haryana,2019-20,2019154.0
+Himachal Pradesh,2019-20,382639.0
+Jammu & Kashmir,2019-20,52306.0
+Jharkhand,2019-20,858563.0
+Karnataka,2019-20,2704094.0
+Delhi,2020-21,75306.0
+Goa,2020-21,195014.0
+Gujarat,2020-21,5328214.0
+Haryana,2020-21,1675985.0
+Himachal Pradesh,2020-21,355911.0
+Jammu & Kashmir,2020-21,40392.0
+Jharkhand,2020-21,469998.0
+Karnataka,2020-21,1828271.0
+Delhi,2021-22,87831.0
+Goa,2021-22,203676.0
+Gujarat,2021-22,-891830.0
+Haryana,2021-22,2066831.0
+Himachal Pradesh,2021-22,453409.0
+Jammu & Kashmir,2021-22,84045.0
+Jharkhand,2021-22,477547.0
+Karnataka,2021-22,2821739.0
+Delhi,2022-23,177816.0
+Goa,2022-23,355175.0
+Gujarat,2022-23,10745601.0
+Haryana,2022-23,3076884.0
+Himachal Pradesh,2022-23,470369.0
+Jammu & Kashmir,2022-23,85935.0
+Jharkhand,2022-23,868881.0
+Karnataka,2022-23,3259797.0
+Delhi,2023-24,106197.0
+Goa,2023-24,406651.0
+Gujarat,2023-24,12579786.0
+Haryana,2023-24,3714898.0
+Himachal Pradesh,2023-24,474251.0
+Jammu & Kashmir,2023-24,89060.0
+Jharkhand,2023-24,1860329.0
+Karnataka,2023-24,3686345.0
+Kerala,2004-05,99183.0
+Ladakh,2004-05,
+Madhya Pradesh,2004-05,263717.0
+Maharashtra,2004-05,1370863.0
+Manipur,2004-05,
+Meghalaya,2004-05,1165.0
+Mizoram,2004-05,
+Nagaland,2004-05,329.0
+Odisha,2004-05,198451.0
+Puducherry,2004-05,32166.0
+Punjab,2004-05,216443.0
+Kerala,2005-06,98284.0
+Ladakh,2005-06,
+Madhya Pradesh,2005-06,269850.0
+Maharashtra,2005-06,1888617.0
+Manipur,2005-06,21.0
+Meghalaya,2005-06,7733.0
+Mizoram,2005-06,
+Nagaland,2005-06,312.0
+Odisha,2005-06,666622.0
+Puducherry,2005-06,52461.0
+Punjab,2005-06,322930.0
+Kerala,2006-07,159351.0
+Ladakh,2006-07,
+Madhya Pradesh,2006-07,369509.0
+Maharashtra,2006-07,2510611.0
+Manipur,2006-07,64.0
+Meghalaya,2006-07,14647.0
+Mizoram,2006-07,
+Nagaland,2006-07,521.0
+Odisha,2006-07,679583.0
+Puducherry,2006-07,33334.0
+Punjab,2006-07,434598.0
+Kerala,2007-08,149872.0
+Ladakh,2007-08,
+Madhya Pradesh,2007-08,466021.0
+Maharashtra,2007-08,2732440.0
+Manipur,2007-08,118.0
+Meghalaya,2007-08,14043.0
+Mizoram,2007-08,
+Nagaland,2007-08,327.0
+Odisha,2007-08,1171949.0
+Puducherry,2007-08,51121.0
+Punjab,2007-08,466081.0
+Kerala,2008-09,252350.0
+Ladakh,2008-09,
+Madhya Pradesh,2008-09,490523.0
+Maharashtra,2008-09,3647409.0
+Manipur,2008-09,32.0
+Meghalaya,2008-09,10386.0
+Mizoram,2008-09,
+Nagaland,2008-09,225.0
+Odisha,2008-09,1375172.0
+Puducherry,2008-09,76821.0
+Punjab,2008-09,581302.0
+Kerala,2009-10,285055.0
+Ladakh,2009-10,
+Madhya Pradesh,2009-10,487102.0
+Maharashtra,2009-10,3024453.0
+Manipur,2009-10,328.0
+Meghalaya,2009-10,38518.0
+Mizoram,2009-10,
+Nagaland,2009-10,8173.0
+Odisha,2009-10,2486387.0
+Puducherry,2009-10,42385.0
+Punjab,2009-10,422011.0
+Kerala,2010-11,218644.0
+Ladakh,2010-11,
+Madhya Pradesh,2010-11,655918.0
+Maharashtra,2010-11,3636780.0
+Manipur,2010-11,760.0
+Meghalaya,2010-11,39717.0
+Mizoram,2010-11,
+Nagaland,2010-11,74.0
+Odisha,2010-11,2585154.0
+Puducherry,2010-11,36688.0
+Punjab,2010-11,814159.0
+Kerala,2011-12,223436.0
+Ladakh,2011-12,
+Madhya Pradesh,2011-12,812232.0
+Maharashtra,2011-12,4655774.0
+Manipur,2011-12,499.0
+Meghalaya,2011-12,64972.0
+Mizoram,2011-12,
+Nagaland,2011-12,138.0
+Odisha,2011-12,3036259.0
+Puducherry,2011-12,39283.0
+Punjab,2011-12,772143.0
+Kerala,2012-13,266860.0
+Ladakh,2012-13,
+Madhya Pradesh,2012-13,1158554.0
+Maharashtra,2012-13,5653066.0
+Manipur,2012-13,999.0
+Meghalaya,2012-13,57339.0
+Mizoram,2012-13,
+Nagaland,2012-13,249.0
+Odisha,2012-13,2851057.0
+Puducherry,2012-13,62833.0
+Punjab,2012-13,629156.0
+Kerala,2013-14,779284.0
+Ladakh,2013-14,
+Madhya Pradesh,2013-14,1585007.0
+Maharashtra,2013-14,5609945.0
+Manipur,2013-14,798.0
+Meghalaya,2013-14,26295.0
+Mizoram,2013-14,
+Nagaland,2013-14,476.0
+Odisha,2013-14,2760953.0
+Puducherry,2013-14,53899.0
+Punjab,2013-14,620476.0
+Kerala,2014-15,628397.0
+Ladakh,2014-15,
+Madhya Pradesh,2014-15,1385579.0
+Maharashtra,2014-15,5519930.0
+Manipur,2014-15,1241.0
+Meghalaya,2014-15,32262.0
+Mizoram,2014-15,
+Nagaland,2014-15,388.0
+Odisha,2014-15,821641.0
+Puducherry,2014-15,63775.0
+Punjab,2014-15,477032.0
+Kerala,2015-16,999315.0
+Ladakh,2015-16,
+Madhya Pradesh,2015-16,1281517.0
+Maharashtra,2015-16,4464331.0
+Manipur,2015-16,906.0
+Meghalaya,2015-16,11310.0
+Mizoram,2015-16,
+Nagaland,2015-16,364.0
+Odisha,2015-16,1665272.0
+Puducherry,2015-16,57105.0
+Punjab,2015-16,537532.0
+Kerala,2016-17,1114921.0
+Ladakh,2016-17,
+Madhya Pradesh,2016-17,1120014.0
+Maharashtra,2016-17,4161132.0
+Manipur,2016-17,2745.0
+Meghalaya,2016-17,64994.0
+Mizoram,2016-17,
+Nagaland,2016-17,579.0
+Odisha,2016-17,1889743.0
+Puducherry,2016-17,59558.0
+Punjab,2016-17,434391.0
+Kerala,2017-18,479360.0
+Ladakh,2017-18,
+Madhya Pradesh,2017-18,1331975.0
+Maharashtra,2017-18,4805518.0
+Manipur,2017-18,1669.0
+Meghalaya,2017-18,11693.0
+Mizoram,2017-18,
+Nagaland,2017-18,409.0
+Odisha,2017-18,614540.0
+Puducherry,2017-18,79770.0
+Punjab,2017-18,730978.0
+Kerala,2018-19,673658.0
+Ladakh,2018-19,
+Madhya Pradesh,2018-19,1451712.0
+Maharashtra,2018-19,5822360.0
+Manipur,2018-19,1147.0
+Meghalaya,2018-19,16276.0
+Mizoram,2018-19,
+Nagaland,2018-19,429.0
+Odisha,2018-19,-355371.0
+Puducherry,2018-19,97290.0
+Punjab,2018-19,724993.0
+Kerala,2019-20,1126751.0
+Ladakh,2019-20,469.0
+Madhya Pradesh,2019-20,1631466.0
+Maharashtra,2019-20,6996117.0
+Manipur,2019-20,912.0
+Meghalaya,2019-20,20717.0
+Mizoram,2019-20,101.0
+Nagaland,2019-20,-191.0
+Odisha,2019-20,2140176.0
+Puducherry,2019-20,106686.0
+Punjab,2019-20,828117.0
+Kerala,2020-21,598219.0
+Ladakh,2020-21,243.0
+Madhya Pradesh,2020-21,926059.0
+Maharashtra,2020-21,4530638.0
+Manipur,2020-21,3652.0
+Meghalaya,2020-21,44286.0
+Mizoram,2020-21,53.0
+Nagaland,2020-21,197.0
+Odisha,2020-21,1367096.0
+Puducherry,2020-21,62339.0
+Punjab,2020-21,1225347.0
+Kerala,2021-22,308107.0
+Ladakh,2021-22,611.0
+Madhya Pradesh,2021-22,1261639.0
+Maharashtra,2021-22,5976508.0
+Manipur,2021-22,1618.0
+Meghalaya,2021-22,41888.0
+Mizoram,2021-22,80.0
+Nagaland,2021-22,432.0
+Odisha,2021-22,2269634.0
+Puducherry,2021-22,86068.0
+Punjab,2021-22,1336512.0
+Kerala,2022-23,543670.0
+Ladakh,2022-23,640.0
+Madhya Pradesh,2022-23,1795436.0
+Maharashtra,2022-23,7367735.0
+Manipur,2022-23,1579.0
+Meghalaya,2022-23,85938.0
+Mizoram,2022-23,-433.0
+Nagaland,2022-23,774.0
+Odisha,2022-23,3818043.0
+Puducherry,2022-23,140708.0
+Punjab,2022-23,1952612.0
+Kerala,2023-24,481450.0
+Ladakh,2023-24,580.0
+Madhya Pradesh,2023-24,2405722.0
+Maharashtra,2023-24,10065848.0
+Manipur,2023-24,1821.0
+Meghalaya,2023-24,148520.0
+Mizoram,2023-24,32.0
+Nagaland,2023-24,836.0
+Odisha,2023-24,4710863.0
+Puducherry,2023-24,139988.0
+Punjab,2023-24,1276467.0
+Rajasthan,2004-05,220383.0
+Sikkim,2004-05,
+Tamil Nadu,2004-05,987642.0
+Telangana,2004-05,
+Tripura,2004-05,1239.0
+Uttar Pradesh,2004-05,513637.0
+Uttarakhand,2004-05,77726.0
+West Bengal,2004-05,222129.0
+Lakshadweep,2004-05,
+Rajasthan,2005-06,236788.0
+Sikkim,2005-06,
+Tamil Nadu,2005-06,1341953.0
+Telangana,2005-06,
+Tripura,2005-06,6030.0
+Uttar Pradesh,2005-06,913831.0
+Uttarakhand,2005-06,157092.0
+West Bengal,2005-06,293967.0
+Lakshadweep,2005-06,
+Rajasthan,2006-07,476255.0
+Sikkim,2006-07,
+Tamil Nadu,2006-07,1691540.0
+Telangana,2006-07,
+Tripura,2006-07,11552.0
+Uttar Pradesh,2006-07,981016.0
+Uttarakhand,2006-07,449566.0
+West Bengal,2006-07,403372.0
+Lakshadweep,2006-07,
+Rajasthan,2007-08,447004.0
+Sikkim,2007-08,
+Tamil Nadu,2007-08,2110758.0
+Telangana,2007-08,
+Tripura,2007-08,4060.0
+Uttar Pradesh,2007-08,1303665.0
+Uttarakhand,2007-08,441121.0
+West Bengal,2007-08,632458.0
+Lakshadweep,2007-08,
+Rajasthan,2008-09,1077436.0
+Sikkim,2008-09,
+Tamil Nadu,2008-09,2007259.0
+Telangana,2008-09,
+Tripura,2008-09,21025.0
+Uttar Pradesh,2008-09,1092533.0
+Uttarakhand,2008-09,673613.0
+West Bengal,2008-09,486206.0
+Lakshadweep,2008-09,
+Rajasthan,2009-10,677090.0
+Sikkim,2009-10,22548.0
+Tamil Nadu,2009-10,2742803.0
+Telangana,2009-10,
+Tripura,2009-10,21211.0
+Uttar Pradesh,2009-10,854788.0
+Uttarakhand,2009-10,1040795.0
+West Bengal,2009-10,1817587.0
+Lakshadweep,2009-10,
+Rajasthan,2010-11,949294.0
+Sikkim,2010-11,13522.0
+Tamil Nadu,2010-11,2305363.0
+Telangana,2010-11,
+Tripura,2010-11,4987.0
+Uttar Pradesh,2010-11,1216996.0
+Uttarakhand,2010-11,669409.0
+West Bengal,2010-11,916511.0
+Lakshadweep,2010-11,
+Rajasthan,2011-12,1227138.0
+Sikkim,2011-12,15300.0
+Tamil Nadu,2011-12,2989866.0
+Telangana,2011-12,
+Tripura,2011-12,2785.0
+Uttar Pradesh,2011-12,1812262.0
+Uttarakhand,2011-12,1015110.0
+West Bengal,2011-12,926607.0
+Lakshadweep,2011-12,
+Rajasthan,2012-13,1229130.0
+Sikkim,2012-13,10320.0
+Tamil Nadu,2012-13,3170411.0
+Telangana,2012-13,780671.0
+Tripura,2012-13,1773.0
+Uttar Pradesh,2012-13,2393767.0
+Uttarakhand,2012-13,641843.0
+West Bengal,2012-13,1115878.0
+Lakshadweep,2012-13,
+Rajasthan,2013-14,1176942.0
+Sikkim,2013-14,10412.0
+Tamil Nadu,2013-14,3409081.0
+Telangana,2013-14,664178.0
+Tripura,2013-14,4221.0
+Uttar Pradesh,2013-14,1402191.0
+Uttarakhand,2013-14,555210.0
+West Bengal,2013-14,934224.0
+Lakshadweep,2013-14,
+Rajasthan,2014-15,1050554.0
+Sikkim,2014-15,7963.0
+Tamil Nadu,2014-15,1328090.0
+Telangana,2014-15,669686.0
+Tripura,2014-15,4537.0
+Uttar Pradesh,2014-15,1469569.0
+Uttarakhand,2014-15,286513.0
+West Bengal,2014-15,696020.0
+Lakshadweep,2014-15,
+Rajasthan,2015-16,1113861.0
+Sikkim,2015-16,22305.0
+Tamil Nadu,2015-16,3833378.0
+Telangana,2015-16,2117453.0
+Tripura,2015-16,4391.0
+Uttar Pradesh,2015-16,1612711.0
+Uttarakhand,2015-16,715465.0
+West Bengal,2015-16,782415.0
+Lakshadweep,2015-16,
+Rajasthan,2016-17,1215571.0
+Sikkim,2016-17,134069.0
+Tamil Nadu,2016-17,3702782.0
+Telangana,2016-17,993043.0
+Tripura,2016-17,2880.0
+Uttar Pradesh,2016-17,1553185.0
+Uttarakhand,2016-17,622359.0
+West Bengal,2016-17,1158168.0
+Lakshadweep,2016-17,
+Rajasthan,2017-18,1432726.0
+Sikkim,2017-18,64377.0
+Tamil Nadu,2017-18,3177538.0
+Telangana,2017-18,1305245.0
+Tripura,2017-18,3648.0
+Uttar Pradesh,2017-18,1456168.0
+Uttarakhand,2017-18,507529.0
+West Bengal,2017-18,1343104.0
+Lakshadweep,2017-18,
+Rajasthan,2018-19,1376804.0
+Sikkim,2018-19,23203.0
+Tamil Nadu,2018-19,3316174.0
+Telangana,2018-19,1366208.0
+Tripura,2018-19,4000.0
+Uttar Pradesh,2018-19,1767906.0
+Uttarakhand,2018-19,481720.0
+West Bengal,2018-19,1076847.0
+Lakshadweep,2018-19,
+Rajasthan,2019-20,1570086.0
+Sikkim,2019-20,23179.0
+Tamil Nadu,2019-20,4593664.0
+Telangana,2019-20,1200080.0
+Tripura,2019-20,5843.0
+Uttar Pradesh,2019-20,2028308.0
+Uttarakhand,2019-20,579940.0
+West Bengal,2019-20,1243400.0
+Lakshadweep,2019-20,
+Rajasthan,2020-21,1309093.0
+Sikkim,2020-21,10957.0
+Tamil Nadu,2020-21,3397817.0
+Telangana,2020-21,1247212.0
+Tripura,2020-21,1434.0
+Uttar Pradesh,2020-21,2021437.0
+Uttarakhand,2020-21,454589.0
+West Bengal,2020-21,871733.0
+Lakshadweep,2020-21,
+Rajasthan,2021-22,2003474.0
+Sikkim,2021-22,25424.0
+Tamil Nadu,2021-22,3785176.0
+Telangana,2021-22,1724823.0
+Tripura,2021-22,6565.0
+Uttar Pradesh,2021-22,2313780.0
+Uttarakhand,2021-22,481968.0
+West Bengal,2021-22,1095111.0
+Lakshadweep,2021-22,
+Rajasthan,2022-23,2758511.0
+Sikkim,2022-23,21200.0
+Tamil Nadu,2022-23,6063716.0
+Telangana,2022-23,1941703.0
+Tripura,2022-23,6669.0
+Uttar Pradesh,2022-23,3767974.0
+Uttarakhand,2022-23,776572.0
+West Bengal,2022-23,1791892.0
+Lakshadweep,2022-23,
+Rajasthan,2023-24,3592869.0
+Sikkim,2023-24,31816.0
+Tamil Nadu,2023-24,6986044.0
+Telangana,2023-24,2043657.0
+Tripura,2023-24,9446.0
+Uttar Pradesh,2023-24,4340265.0
+Uttarakhand,2023-24,597968.0
+West Bengal,2023-24,1939104.0
+Lakshadweep,2023-24,0.0

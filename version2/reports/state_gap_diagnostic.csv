@@ -1,0 +1,34 @@
+state,rank,current_weakness,development_gap,easiest_gap
+Goa,1,unemployment_rate,unemployment_rate,cd_ratio
+Tamil Nadu,2,road_density,investment_rate,td_losses
+Gujarat,3,ger,ger,road_density
+Puducherry,4,road_density,road_density,cd_ratio
+Telangana,5,manufacturing_share,manufacturing_share,ger
+Andhra Pradesh,6,road_density,manufacturing_share,life_expectancy
+Punjab,7,road_density,manufacturing_share,road_density
+Maharashtra,8,road_density,factory_density,road_density
+Himachal Pradesh,9,unemployment_rate,msme_density,per_capita_power
+Haryana,10,life_expectancy,life_expectancy,factory_density
+Uttarakhand,11,cd_ratio,cd_ratio,unemployment_rate
+Karnataka,12,life_expectancy,investment_rate,td_losses
+Delhi,13,investment_rate,investment_rate,msme_density
+Odisha,14,factory_density,factory_density,per_capita_power
+Kerala,15,unemployment_rate,investment_rate,cd_ratio
+Sikkim,16,td_losses,investment_rate,per_capita_power
+West Bengal,17,factory_density,factory_density,road_density
+Rajasthan,18,life_expectancy,factory_density,per_capita_power
+Chandigarh,19,manufacturing_share,investment_rate,cd_ratio
+Assam,20,ger,factory_density,unemployment_rate
+Jharkhand,21,factory_density,factory_density,manufacturing_share
+Chhattisgarh,22,life_expectancy,life_expectancy,per_capita_power
+Mizoram,23,manufacturing_share,manufacturing_share,per_capita_power
+Madhya Pradesh,24,life_expectancy,factory_density,road_density
+Tripura,25,manufacturing_share,investment_rate,per_capita_power
+Jammu & Kashmir,26,unemployment_rate,factory_density,per_capita_power
+Uttar Pradesh,27,life_expectancy,factory_density,per_capita_power
+Manipur,28,manufacturing_share,manufacturing_share,per_capita_power
+Andaman & Nicobar Islands,29,manufacturing_share,factory_density,road_density
+Bihar,30,ger,factory_density,unemployment_rate
+Meghalaya,31,unemployment_rate,msme_density,per_capita_power
+Nagaland,32,ger,manufacturing_share,per_capita_power
+Arunachal Pradesh,33,td_losses,td_losses,per_capita_power

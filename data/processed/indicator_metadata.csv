@@ -1,0 +1,16 @@
+indicator,year_used,entities,coverage_pct
+factories,2023-24,36,100
+gfcf,2022-23,35,97
+roads_km,2020,35,97
+manufacturing_gva,2022-23,34,94
+total_gva,2022-23,34,94
+total_nsdp,2022-23,34,94
+per_capita_power,2024-25,34,94
+td_losses,2022-23,33,92
+cd_ratio,2025,36,100
+per_capita_nsdp,2022-23,34,94
+life_expectancy,2019-23,22,61
+unemp_rural,2023-24,34,94
+unemp_urban,2023-24,35,97
+ger,2024-25,36,100
+msme_registrations,2026,36,100
